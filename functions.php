@@ -1334,28 +1334,3 @@ function bdj_ajax_live_search_handler(): void {
     wp_send_json_success( $results );
 }
 
-/**
- * Detect whether mobile view should be served.
- * Supports:
- * - ?view=mobile / ?view=desktop query param (sets cookie)
- * - bdj_view_mode cookie
- * - wp_is_mobile() for actual phone/tablet devices
- */
-function bdj_is_mobile(): bool {
-    if ( isset( $_GET['view'] ) ) {
-        if ( $_GET['view'] === 'mobile' ) return true;
-        if ( $_GET['view'] === 'desktop' ) return false;
-    }
-    if ( isset( $_COOKIE['bdj_view_mode'] ) ) {
-        if ( $_COOKIE['bdj_view_mode'] === 'mobile' ) return true;
-        if ( $_COOKIE['bdj_view_mode'] === 'desktop' ) return false;
-    }
-    return function_exists( 'wp_is_mobile' ) && wp_is_mobile();
-}
-
-add_action( 'init', function() {
-    if ( isset( $_GET['view'] ) && in_array( $_GET['view'], [ 'mobile', 'desktop' ], true ) ) {
-        setcookie( 'bdj_view_mode', sanitize_text_field( $_GET['view'] ), time() + 86400 * 30, '/' );
-        $_COOKIE['bdj_view_mode'] = sanitize_text_field( $_GET['view'] );
-    }
-} );

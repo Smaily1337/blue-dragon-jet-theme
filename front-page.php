@@ -172,7 +172,6 @@ function _fp_rows( string $key ): ?array {
 }
 ?>
 
-<div class="bdj-desktop-only">
 <!-- ═══ HERO ════════════════════════════════════════════════════════════════ -->
 <section class="hero" aria-label="<?php esc_attr_e( 'Strona główna', 'blue-dragon-jet' ); ?>">
     <div class="hero__bg" style="background-image:url('<?php echo esc_url( _fp( 'fp_hero_bg', content_url( 'uploads/2026/04/tlo.png' ) ) ); ?>');" role="img" aria-label="Maszyny Blue Dragon Jet"></div>
@@ -1667,10 +1666,5 @@ $_cur_faq = $_faq_data[ $_lang ] ?? $_faq_data['pl'];
         </div>
     </div>
 </section>
-</div><!-- .bdj-desktop-only -->
-
-<div class="bdj-mobile-only">
-    <?php get_template_part( 'front-page-mobile-content' ); ?>
-</div><!-- .bdj-mobile-only -->
 
 <?php get_footer(); ?>
