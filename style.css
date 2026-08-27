@@ -5471,3 +5471,14 @@ a.contact__info-value:hover { color: var(--color-secondary); }
     margin: 1rem 0 0 0;
 }
 
+/* Responsive Desktop / Mobile container toggles */
+@media (max-width: 768px) {
+    .bdj-desktop-only { display: none !important; }
+    .bdj-mobile-only  { display: block !important; }
+}
+@media (min-width: 769px) {
+    .bdj-desktop-only { display: block !important; }
+    .bdj-mobile-only  { display: none !important; }
+}
+
+
