@@ -29,7 +29,7 @@ get_header();
 
             <!-- Zdjęcie po lewej -->
             <div class="academy-why__photo" data-aos="fade-right">
-                <img src="/wp-content/uploads/2026/05/Frame-30.png"
+                <img src="<?php echo esc_url( content_url( '/uploads/2026/05/Frame-30.png' ) ); ?>"
                      alt="Szkolenie Blue Dragon Jet Academy – praktyczne ćwiczenia" loading="lazy">
             </div>
 

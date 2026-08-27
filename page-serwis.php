@@ -443,7 +443,7 @@ get_header(); ?>
 
             <!-- Zdjęcie po lewej -->
             <div class="serwis-features__photo" data-aos="fade-right">
-                <img src="/wp-content/uploads/2026/05/IMG_20230719_133929-scaled-1.jpg"
+                <img src="<?php echo esc_url( content_url( '/uploads/2026/05/IMG_20230719_133929-scaled-1.jpg' ) ); ?>"
                      alt="Serwis maszyn Blue Dragon Jet" loading="lazy">
             </div>
 

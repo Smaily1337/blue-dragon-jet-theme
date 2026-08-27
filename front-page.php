@@ -558,17 +558,17 @@ document.addEventListener('DOMContentLoaded', function () {
         <div class="marquee-content">
             <?php
             $partner_logos = [
-                [ 'src' => '/wp-content/uploads/2026/05/wwww.jpg',                          'alt' => 'Partner' ],
-                [ 'src' => '/wp-content/uploads/2026/05/xbestfibre_optic_solutions-scaled.png', 'alt' => 'Best Fibre Optic Solutions' ],
-                [ 'src' => '/wp-content/uploads/2026/05/VanCo_logo.jpg',                    'alt' => 'VanCo' ],
-                [ 'src' => '/wp-content/uploads/2026/05/Tracto-logo-1.png',                 'alt' => 'Tracto' ],
-                [ 'src' => '/wp-content/uploads/2026/05/Teklet.png',                        'alt' => 'Teklet' ],
-                [ 'src' => '/wp-content/uploads/2026/05/mp-technik.png',                    'alt' => 'MP Technik' ],
-                [ 'src' => '/wp-content/uploads/2026/05/Mampaey-Logo.jpg',                  'alt' => 'Mampaey' ],
-                [ 'src' => '/wp-content/uploads/2026/05/LOGO-novi-b-02-02-2-1.png',         'alt' => 'Novi' ],
-                [ 'src' => '/wp-content/uploads/2026/05/frameLogo2020.png',                 'alt' => 'Frame' ],
-                [ 'src' => '/wp-content/uploads/2026/05/FCA.png',                           'alt' => 'FCA' ],
-                [ 'src' => '/wp-content/uploads/2026/05/BKF-Myjnie.png',                    'alt' => 'BKF Myjnie' ],
+                [ 'src' => content_url( '/uploads/2026/05/wwww.jpg' ),                          'alt' => 'Partner' ],
+                [ 'src' => content_url( '/uploads/2026/05/xbestfibre_optic_solutions-scaled.png' ), 'alt' => 'Best Fibre Optic Solutions' ],
+                [ 'src' => content_url( '/uploads/2026/05/VanCo_logo.jpg' ),                    'alt' => 'VanCo' ],
+                [ 'src' => content_url( '/uploads/2026/05/Tracto-logo-1.png' ),                 'alt' => 'Tracto' ],
+                [ 'src' => content_url( '/uploads/2026/05/Teklet.png' ),                        'alt' => 'Teklet' ],
+                [ 'src' => content_url( '/uploads/2026/05/mp-technik.png' ),                    'alt' => 'MP Technik' ],
+                [ 'src' => content_url( '/uploads/2026/05/Mampaey-Logo.jpg' ),                  'alt' => 'Mampaey' ],
+                [ 'src' => content_url( '/uploads/2026/05/LOGO-novi-b-02-02-2-1.png' ),         'alt' => 'Novi' ],
+                [ 'src' => content_url( '/uploads/2026/05/frameLogo2020.png' ),                 'alt' => 'Frame' ],
+                [ 'src' => content_url( '/uploads/2026/05/FCA.png' ),                           'alt' => 'FCA' ],
+                [ 'src' => content_url( '/uploads/2026/05/BKF-Myjnie.png' ),                    'alt' => 'BKF Myjnie' ],
             ];
             // Pierwsze przejście
             foreach ( $partner_logos as $logo ) {

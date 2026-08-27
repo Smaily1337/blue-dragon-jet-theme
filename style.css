@@ -1284,7 +1284,7 @@ a { color: inherit; text-decoration: none; }
 
 /* ─── Footer ────────────────────────────────────────────────────────────── */
 .site-footer {
-    background: var(--color-secondary) url('/wp-content/uploads/2026/05/footer.png') center center / cover no-repeat;
+    background: var(--color-secondary) url('../../uploads/2026/05/footer.png') center center / cover no-repeat;
     background-blend-mode: multiply;
     color: var(--color-white);
     padding: 4rem 1.5rem 2rem;
