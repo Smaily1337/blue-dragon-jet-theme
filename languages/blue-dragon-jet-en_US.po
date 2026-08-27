@@ -1,0 +1,1274 @@
+# Blue Dragon Jet — English (en_US)
+# Generated automatically from theme PHP files.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blue Dragon Jet 1.0
+"
+"POT-Creation-Date: 2026-05-06
+"
+"PO-Revision-Date: 2026-05-06
+"
+"Language: en_US
+"
+"MIME-Version: 1.0
+"
+"Content-Type: text/plain; charset=UTF-8
+"
+"Content-Transfer-Encoding: 8bit
+"
+"Plural-Forms: nplurals=2; plural=(n != 1);
+"
+msgid "* Ceny netto. Do podanych kwot należy doliczyć podatek VAT 23%. W przypadku większych grup prosimy o indywidualną wycenę."
+msgstr "* Prices are net. 23% VAT must be added to the amounts shown. For larger groups, please request an individual quote."
+
+msgid "+ Dodaj dokument / kartę produktu"
+msgstr "+ Add document / product card"
+
+msgid "+ Dodaj zdjęcia do galerii"
+msgstr "+ Add gallery photos"
+
+msgid "Absolwenci otrzymują imienny certyfikat Blue Dragon Jet Academy. Dokument potwierdzający kompetencje operatora — cenny przy przetargach i audytach."
+msgstr "Graduates receive a named Blue Dragon Jet Academy certificate. A document confirming operator competence — valuable in tenders and audits."
+
+msgid "Adres"
+msgstr "Address"
+
+msgid "Adres e-mail *"
+msgstr "Email address *"
+
+msgid "After a few months of using Blue Dragon Jet Extended I can easily say it was one of the best choices for my telecommunication contracts. Works twice as fast and with much greater precision."
+msgstr "After a few months of using Blue Dragon Jet Extended I can easily say it was one of the best choices for my telecommunication contracts. Works twice as fast and with much greater precision."
+
+msgid "Akademia"
+msgstr "Academy"
+
+msgid "Aktualizuj"
+msgstr "Update"
+
+msgid "Artykuły i aktualności"
+msgstr "Articles & news"
+
+msgid "Autoryzowane centrum"
+msgstr "Authorised centre"
+
+msgid "Autoryzowani inżynierowie BDJ"
+msgstr "Authorised BDJ engineers"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Brak artykułów"
+msgstr "No articles"
+
+msgid "Brak dodanych dokumentów."
+msgstr "No documents added."
+
+msgid "Brak maszyn"
+msgstr "No machines found"
+
+msgid "Brak w koszu"
+msgstr "No items in trash"
+
+msgid "Budowa mechanizmu napędowego"
+msgstr "Drive mechanism construction"
+
+msgid "Cennik szkoleń"
+msgstr "Training price list"
+
+msgid "Certyfikat rozpoznawany w branży"
+msgstr "Industry-recognised certificate"
+
+msgid "Certyfikat ukończenia"
+msgstr "Completion certificate"
+
+msgid "Co mówią nasi klienci"
+msgstr "What our customers say"
+
+msgid "Czytaj dalej"
+msgstr "Read more"
+
+msgid "Diagnostyka błędów i rozwiązywanie problemów"
+msgstr "Fault diagnostics and troubleshooting"
+
+msgid "Do każdej maszyny zapewniamy pełne szkolenie. Poznaj mechanizmy działania i optymalne sposoby użytkowania urządzeń."
+msgstr "We provide full training for every machine. Learn the operating mechanisms and optimal ways to use the equipment."
+
+msgid "Dodaj do kalkulatora"
+msgstr "Add to calculator"
+
+msgid "Dodaj główne zdjęcie"
+msgstr "Add main photo"
+
+msgid "Dodaj kategorię"
+msgstr "Add category"
+
+msgid "Dodaj maszynę"
+msgstr "Add machine"
+
+msgid "Dodaj pliki PDF (karty produktu, instrukcje, certyfikaty). Będą dostępne do pobrania w zakładce \"Dokumenty\" na stronie produktu."
+msgstr "Add PDF files (product sheets, manuals, certificates). They will be available for download in the \"Documents\" tab on the product page."
+
+msgid "Dokumenty / Karty produktu (PDF)"
+msgstr "Documents / Product sheets (PDF)"
+
+msgid "Dopiero zaczynam używać BDJ Standard i rejestratora BDJ Brai. Na rynku niemieckim to idealny zestaw. Kontakt i obsługa z firmą na 5!"
+msgstr "I have just started using the BDJ Standard and BDJ Brai recorder. On the German market this is the ideal set. Contact and service with the company — top marks!"
+
+msgid "Dostępne kursy"
+msgstr "Available courses"
+
+msgid "Dowiedz się więcej"
+msgstr "Learn more"
+
+msgid "Dowolna liczba uczestników"
+msgstr "Unlimited participants"
+
+msgid "Dowolny tekst opisujący kompatybilne kable. Zostanie wyróżniony na stronie produktu."
+msgstr "Any text describing compatible cables. Will be highlighted on the product page."
+
+msgid "Dowolny tekst opisujący kompatybilne mikrorurki. Zostanie wyróżniony na stronie produktu."
+msgstr "Any text describing compatible microducts. Will be highlighted on the product page."
+
+msgid "Dynamiczny rozwój eksportu — nasze maszyny trafiają do klientów na całym świecie."
+msgstr "Rapidly growing exports — our machines reach customers worldwide."
+
+msgid "Dystrybucja"
+msgstr "Distribution"
+
+msgid "Dystrybutorzy"
+msgstr "Distributors"
+
+msgid "Działamy zgodnie z normami ISO i standardami CE. Każda maszyna przechodzi rygorystyczną kontrolę jakości przed wysyłką."
+msgstr "We operate in accordance with ISO standards and CE requirements. Every machine undergoes rigorous quality control before shipping."
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Edytuj kategorię"
+msgstr "Edit category"
+
+msgid "Edytuj maszynę"
+msgstr "Edit machine"
+
+msgid "Ekspresowa wysyłka"
+msgstr "Express shipping"
+
+msgid "Etykieta na karcie"
+msgstr "Card label"
+
+msgid "Firma"
+msgstr "Company"
+
+msgid "Firma godna zaufania. Zakupiony sprzęt działa bez zarzutu, a serwis posprzedażowy na bardzo wysokim poziomie."
+msgstr "A trustworthy company. The purchased equipment works flawlessly and the after-sales service is of a very high standard."
+
+msgid "Firma w liczbach"
+msgstr "Company in numbers"
+
+msgid "Galeria zdjęć maszyny"
+msgstr "Machine photo gallery"
+
+msgid "Gotowy na szkolenie?"
+msgstr "Ready for training?"
+
+msgid "Główne zdjęcie maszyny"
+msgstr "Machine main photo"
+
+msgid "Idealny zestaw z"
+msgstr "Ideal set with"
+
+msgid "Idealny zestaw z:"
+msgstr "Ideal set with:"
+
+msgid "Imię i nazwisko *"
+msgstr "Full name *"
+
+msgid "In calculator?"
+msgstr "In calculator?"
+
+msgid "Jestem bardzo zadowolony z obsługi, szczególnie Pana Pawła. Profesjonalne podejście i szybka realizacja zamówienia."
+msgstr "I am very pleased with the service, especially from Mr Paweł. Professional approach and fast order fulfilment."
+
+msgid "Kabel — opis"
+msgstr "Cable — description"
+
+msgid "Kabel:"
+msgstr "Cable:"
+
+msgid "Kameralne grupy do 8 osób gwarantują indywidualne podejście i czas na każde pytanie uczestnika."
+msgstr "Small groups of up to 8 people guarantee individual attention and time for every question."
+
+msgid "Kameralne grupy, indywidualne podejście"
+msgstr "Small groups, individual approach"
+
+msgid "Kategoria"
+msgstr "Category"
+
+msgid "Kategorie artykułów"
+msgstr "Article categories"
+
+msgid "Kategorie maszyn"
+msgstr "Machine categories"
+
+msgid "Każde szkolenie to połowa sali i połowa warsztatu — uczestnicy ćwiczą wdmuchiwanie kabli na prawdziwych maszynach BDJ w warunkach zbliżonych do tych z placu budowy."
+msgstr "Every training session is half lecture room, half workshop — participants practise cable blowing on real BDJ machines in conditions similar to a construction site."
+
+msgid "Każde szkolenie łączy solidną wiedzę techniczną z ćwiczeniami na rzeczywistym sprzęcie Blue Dragon Jet."
+msgstr "Every training session combines solid technical knowledge with hands-on exercises using real Blue Dragon Jet equipment."
+
+msgid "Kompatybilność"
+msgstr "Compatibility"
+
+msgid "Konsultacje po szkoleniu (30 dni)"
+msgstr "Post-training consultations (30 days)"
+
+msgid "Konsultacje po szkoleniu (60 dni)"
+msgstr "Post-training consultations (60 days)"
+
+msgid "Kontakt"
+msgstr "Contact"
+
+msgid "Korporacyjny"
+msgstr "Corporate"
+
+msgid "Krajów obsługiwanych"
+msgstr "Countries served"
+
+msgid "Lat doświadczenia"
+msgstr "Years of experience"
+
+msgid "Lub wyszukaj czego szukasz:"
+msgstr "Or search for what you need:"
+
+msgid "Maksymalnie 10 uczestników na jedną edycję. Każdy ma czas na pytania, może wielokrotnie powtórzyć ćwiczenie i wyjść z kursu pewny swoich umiejętności."
+msgstr "Maximum 10 participants per session. Everyone has time for questions, can repeat exercises and leave the course confident in their skills."
+
+msgid "Maszyna"
+msgstr "Machine"
+
+msgid "Maszyny"
+msgstr "Machines"
+
+msgid "Maszyny w akcji"
+msgstr "Machines in action"
+
+msgid "Materiały szkoleniowe"
+msgstr "Training materials"
+
+msgid "Małe grupy"
+msgstr "Small groups"
+
+msgid "Mikrorurka — opis"
+msgstr "Microduct — description"
+
+msgid "Mikrorurka:"
+msgstr "Microduct:"
+
+msgid "Nadrzędna"
+msgstr "Parent"
+
+msgid "Nadrzędna:"
+msgstr "Parent:"
+
+msgid "Najnowsze artykuły"
+msgstr "Latest articles"
+
+msgid "Najpopularniejszy"
+msgstr "Most popular"
+
+msgid "Naprawa / Serwis"
+msgstr "Repair / Service"
+
+msgid "Nasi inżynierowie pomogą dobrać właściwy model. Masz pytania? Zadzwoń lub napisz — odpowiadamy szybko."
+msgstr "Our engineers will help you choose the right model. Got questions? Call or write — we respond quickly."
+
+msgid "Nasi partnerzy"
+msgstr "Our partners"
+
+msgid "Nasi trenerzy to inżynierowie z wieloletnią praktyką terenową — uczą tego, co sami stosują na co dzień."
+msgstr "Our trainers are engineers with years of field experience — they teach what they themselves apply every day."
+
+msgid "Następna"
+msgstr "Next"
+
+msgid "Następny"
+msgstr "Next"
+
+msgid "Nasza"
+msgstr "Our"
+
+msgid "Nasze maszyny"
+msgstr "Our machines"
+
+msgid "Nasze maszyny do wdmuchiwania kabli"
+msgstr "Our cable blowing machines"
+
+msgid "Nawigacja"
+msgstr "Navigation"
+
+msgid "Nie znaleziono maszyn w tej kategorii."
+msgstr "No machines found in this category."
+
+msgid "No content found."
+msgstr "No content found."
+
+msgid "Nowa kategoria"
+msgstr "New category"
+
+msgid "Nowa maszyna"
+msgstr "New machine"
+
+msgid "Nowe zapytanie od %s – Blue Dragon Jet"
+msgstr "New enquiry from %s – Blue Dragon Jet"
+
+msgid "Numer telefonu"
+msgstr "Phone number"
+
+msgid "O nas"
+msgstr "About us"
+
+msgid "Obiad"
+msgstr "Lunch"
+
+msgid "Obsługa i regulacja maszyny"
+msgstr "Machine operation and adjustment"
+
+msgid "Obsługa maszyn BDJ"
+msgstr "BDJ machine operation"
+
+msgid "Oferta"
+msgstr "Offer"
+
+msgid "Oferta szkoleń"
+msgstr "Training offer"
+
+msgid "Oferujemy serwis oraz naprawę maszyn. Szybka dostępność części zamiennych dla wszystkich modeli Blue Dragon Jet."
+msgstr "We offer machine service and repair. Fast availability of spare parts for all Blue Dragon Jet models."
+
+msgid "Opinie"
+msgstr "Reviews"
+
+msgid "Opinie klientów"
+msgstr "Customer reviews"
+
+msgid "Pakiet L"
+msgstr "Package L"
+
+msgid "Pakiet M"
+msgstr "Package M"
+
+msgid "Pakiet S"
+msgstr "Package S"
+
+msgid "Pakiet gadżetów firmowych"
+msgstr "Company merchandise package"
+
+msgid "Parametry maszyny"
+msgstr "Machine parameters"
+
+msgid "Po ukończeniu szkolenia każdy uczestnik otrzymuje certyfikat Blue Dragon Jet Academy potwierdzający kompetencje."
+msgstr "Upon completion, each participant receives a Blue Dragon Jet Academy certificate confirming their competence."
+
+msgid "Podstawowy"
+msgstr "Basic"
+
+msgid "Polecam sprzęt do sieci FTTH. Mam model Mini i działa jak trzeba — niezawodny, precyzyjny, wart swojej ceny."
+msgstr "I recommend the equipment for FTTH networks. I have the Mini model and it works as it should — reliable, precise, worth its price."
+
+msgid "Polityka jakości"
+msgstr "Quality policy"
+
+msgid "Poprzedni"
+msgstr "Previous"
+
+msgid "Poprzednia"
+msgstr "Previous"
+
+msgid "Porady techniczne, case study i nowości z branży wdmuchiwania kabli."
+msgstr "Technical tips, case studies and news from the cable blowing industry."
+
+msgid "Potrzebujesz dodatkowej dokumentacji? Skontaktuj się z nami."
+msgstr "Need additional documentation? Contact us."
+
+msgid "Powiązane artykuły"
+msgstr "Related articles"
+
+msgid "Powrót do katalogu maszyn"
+msgstr "Back to machine catalogue"
+
+msgid "Praktyczne ćwiczenia na maszynie"
+msgstr "Hands-on machine exercises"
+
+msgid "Primary"
+msgstr "Primary"
+
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+msgid "Produkty"
+msgstr "Products"
+
+msgid "Profesjonalne doradztwo"
+msgstr "Professional advice"
+
+msgid "Profesjonalne maszyny do wdmuchiwania kabli i mikrokabli"
+msgstr "Professional cable and microduct blowing machines"
+
+msgid "Profesjonalne szkolenia z zakresu wdmuchiwania kabli, obsługi maszyn i optymalizacji instalacji światłowodowych."
+msgstr "Professional training in cable blowing, machine operation and fibre optic installation optimisation."
+
+msgid "Program dostosowany do Twoich maszyn"
+msgstr "Programme tailored to your machines"
+
+msgid "Projektowane i produkowane w Polsce (UE) — precyzyjna inżynieria w konkurencyjnej cenie."
+msgstr "Designed and manufactured in Poland (EU) — precise engineering at a competitive price."
+
+msgid "Przeglądy okresowe i dokumentacja"
+msgstr "Periodic inspections and documentation"
+
+msgid "Przygotowanie trasy instalacyjnej"
+msgstr "Preparation of the installation route"
+
+msgid "SKONTAKTUJ SIĘ"
+msgstr "CONTACT US"
+
+msgid "Serwis"
+msgstr "Service"
+
+msgid "Serwis i konserwacja maszyn"
+msgstr "Machine service and maintenance"
+
+msgid "Serwis kompresorów i przewodów"
+msgstr "Compressor and hose service"
+
+msgid "Skontaktuj się z nami"
+msgstr "Contact us"
+
+msgid "Skontaktuj się z nami, a dobierzemy odpowiedni kurs dla Ciebie i Twojego zespołu."
+msgstr "Contact us and we will find the right course for you and your team."
+
+msgid "Sprzedanych maszyn"
+msgstr "Machines sold"
+
+msgid "Strona główna"
+msgstr "Home page"
+
+msgid "Strona nie została znaleziona"
+msgstr "Page not found"
+
+msgid "Szczegóły produktu wkrótce. Skontaktuj się z nami po specyfikację."
+msgstr "Product details coming soon. Contact us for specifications."
+
+msgid "Szkolenia"
+msgstr "Training"
+
+msgid "Szkolenia prowadzone przez autoryzowanych inżynierów Blue Dragon Jet z wieloletnim doświadczeniem w branży."
+msgstr "Training conducted by authorised Blue Dragon Jet engineers with years of industry experience."
+
+msgid "Szkolenia prowadzą wyłącznie inżynierowie z certyfikacją Blue Dragon Jet — ci sami, którzy projektują maszyny i wspierają klientów na co dzień."
+msgstr "Training is conducted exclusively by Blue Dragon Jet certified engineers — the same people who design the machines and support customers every day."
+
+msgid "Szkolenia stworzone przez praktyków"
+msgstr "Training created by practitioners"
+
+msgid "Szkolenie dedykowane dla firm"
+msgstr "Dedicated corporate training"
+
+msgid "Szkolenie dla 1–2 uczestników"
+msgstr "Training for 1–2 participants"
+
+msgid "Szkolenie dla 3–5 uczestników"
+msgstr "Training for 3–5 participants"
+
+msgid "Szkolenie dla 6–10 uczestników"
+msgstr "Training for 6–10 participants"
+
+msgid "Szkolenie na miejscu u klienta"
+msgstr "On-site training at client premises"
+
+msgid "Szkolenie u Ciebie w firmie"
+msgstr "Training at your company"
+
+msgid "Szukaj"
+msgstr "Search"
+
+msgid "Szukaj kategorii"
+msgstr "Search categories"
+
+msgid "Szukaj maszyn"
+msgstr "Search machines"
+
+msgid "Szukaj..."
+msgstr "Search..."
+
+msgid "Telefon"
+msgstr "Phone"
+
+msgid "Teoria i praktyka"
+msgstr "Theory and practice"
+
+msgid "Teoria połączona z praktyką"
+msgstr "Theory combined with practice"
+
+msgid "Toggle menu"
+msgstr "Toggle menu"
+
+msgid "Uruchomienie produkcji własnych wdmuchiwarek do kabli światłowodowych pod marką Blue Dragon Jet."
+msgstr "Launch of own fibre optic cable blowing machines under the Blue Dragon Jet brand."
+
+msgid "Użyj jako głównego zdjęcia"
+msgstr "Use as main photo"
+
+msgid "Wdmuchiwanie kabli"
+msgstr "Cable blowing"
+
+msgid "Wdrożenie sprzętu do bezwykopowych napraw sieci kanalizacyjnych pod marką Green Dragon Products."
+msgstr "Introduction of trenchless sewer network repair equipment under the Green Dragon Products brand."
+
+msgid "Wiadomość *"
+msgstr "Message *"
+
+msgid "Wiadomość wysłana. Odezwiemy się jak najszybciej."
+msgstr "Message sent. We will get back to you as soon as possible."
+
+msgid "Wiedza i szkolenia"
+msgstr "Knowledge and training"
+
+msgid "Wkrótce pojawią się nowe wpisy."
+msgstr "New posts will appear soon."
+
+msgid "Wsparcie poszkoleniowe 30 dni"
+msgstr "Post-training support 30 days"
+
+msgid "Wsparcie techniczne"
+msgstr "Technical support"
+
+msgid "Wszelkie prawa zastrzeżone."
+msgstr "All rights reserved."
+
+msgid "Wszystkie"
+msgstr "All"
+
+msgid "Wszystkie artykuły"
+msgstr "All articles"
+
+msgid "Wszystkie kategorie"
+msgstr "All categories"
+
+msgid "Wszystkie maszyny"
+msgstr "All machines"
+
+msgid "Wybierz maszynę z listy"
+msgstr "Select machine from list"
+
+msgid "Wybierz pakiet dopasowany do wielkości Twojego zespołu. Cena zawiera materiały szkoleniowe i certyfikat ukończenia."
+msgstr "Choose the package suited to your team size. Price includes training materials and completion certificate."
+
+msgid "Wybrana maszyna będzie wyświetlana na karcie produktu jako polecany zestaw."
+msgstr "The selected machine will be displayed on the product page as a recommended set."
+
+msgid "Wygląda na to, że szukana strona nie istnieje lub została przeniesiona. Sprawdź adres URL albo wróć na stronę główną."
+msgstr "It looks like the page you are looking for does not exist or has been moved. Check the URL or return to the home page."
+
+msgid "Wymiana części eksploatacyjnych"
+msgstr "Replacement of consumable parts"
+
+msgid "Wyrażam zgodę na otrzymywanie drogą elektroniczną od Gamm-bud sp. z o.o. z siedzibą w Skarbimierzycach (Skarbimierzyce 22, 72-002 Dołuje) na podany przeze mnie adres e-mail informacji handlowych i marketingowych (m.in. o produktach, promocjach, wydarzeniach). *"
+msgstr "I consent to receiving electronic commercial and marketing information (including about products, promotions and events) from Gamm-bud sp. z o.o., registered in Skarbimierzyce (Skarbimierzyce 22, 72-002 Dołuje), to the email address I have provided. *"
+
+msgid "Wyróżnienie produktu"
+msgstr "Product highlight"
+
+msgid "Wyślij wiadomość"
+msgstr "Send message"
+
+msgid "Wyświetlany na stronie produktu"
+msgstr "Displayed on product page"
+
+msgid "Własna etykieta:"
+msgstr "Custom label:"
+
+msgid "ZAPYTAJ O OFERTĘ"
+msgstr "REQUEST A QUOTE"
+
+msgid "Zaawansowany"
+msgstr "Advanced"
+
+msgid "Zainteresowany naszymi maszynami?"
+msgstr "Interested in our machines?"
+
+msgid "Zapisz się"
+msgstr "Sign up"
+
+msgid "Zapytaj o dokumentację"
+msgstr "Request documentation"
+
+msgid "Zapytaj o ofertę"
+msgstr "Request a quote"
+
+msgid "Zapytaj o termin"
+msgstr "Ask about dates"
+
+msgid "Zasady wdmuchiwania kabli i mikrokabli"
+msgstr "Principles of cable and microduct blowing"
+
+msgid "Zaufali nam"
+msgstr "They trusted us"
+
+msgid "Zaufali nam dystrybutorzy na całym świecie"
+msgstr "Distributors worldwide have trusted us"
+
+msgid "Zaznacz, jeśli maszyna ma być widoczna w kalkulatorze kosztów."
+msgstr "Check if the machine should be visible in the cost calculator."
+
+msgid "Założenie spółki GAMM-BUD — start jako dostawca sprzętu dla branży wodno-kanalizacyjnej."
+msgstr "Founding of GAMM-BUD — starting as a supplier of equipment for the water and sewage industry."
+
+msgid "Zdjęcia galerii wyświetlane na stronie produktu."
+msgstr "Gallery photos displayed on the product page."
+
+msgid "Zobacz kursy"
+msgstr "View courses"
+
+msgid "Zobacz maszyny"
+msgstr "View machines"
+
+msgid "Zobacz maszynę"
+msgstr "View machine"
+
+msgid "Zobacz nasze urządzenia podczas pracy w terenie."
+msgstr "See our equipment at work in the field."
+
+msgid "Zobacz szczegóły"
+msgstr "View details"
+
+msgid "Zobacz wszystkie maszyny"
+msgstr "View all machines"
+
+msgid "Zostań dystrybutorem"
+msgstr "Become a distributor"
+
+msgid "cena na zapytanie"
+msgstr "price on request"
+
+msgid "do 10 osób"
+msgstr "up to 10 people"
+
+msgid "do 2 osób"
+msgstr "up to 2 people"
+
+msgid "do 5 osób"
+msgstr "up to 5 people"
+
+msgid "do ustalenia"
+msgstr "to be agreed"
+
+msgid "historia"
+msgstr "history"
+
+msgid "np. Kabel ø 2–10 mm, przewody wielożyłowe"
+msgstr "e.g. Cable ø 2–10 mm, multi-core cables"
+
+msgid "np. Mikrorurka 5/3,5 mm – 7/5,5 mm – 10/8 mm"
+msgstr "e.g. Microduct 5/3.5 mm – 7/5.5 mm – 10/8 mm"
+
+msgid "np. PROMOCJA"
+msgstr "e.g. PROMO"
+
+msgid "Śniadanie"
+msgstr "Breakfast"
+
+msgid "Średnica mikrokabla"
+msgstr "Microduct diameter"
+
+msgid "Średnica rury"
+msgstr "Pipe diameter"
+
+msgid "— Brak —"
+msgstr "— None —"
+
+msgid "— czerwona etykieta"
+msgstr "— red label"
+
+msgid "— zielona etykieta"
+msgstr "— green label"
+
+msgid "→ niebieska etykieta"
+msgstr "→ blue label"
+
+msgid "Dlaczego warto"
+msgstr "Why it's worth it"
+
+msgid "Usuń zdjęcie"
+msgstr "Remove photo"
+
+msgid "Zamówione maszyny wysyłamy w ciągu 24h. Gwarantujemy szybką dostawę na terenie całej Europy."
+msgstr "Ordered machines are dispatched within 24h. We guarantee fast delivery across Europe."
+
+
+msgid "Europejski producent"
+msgstr "European manufacturer"
+
+msgid "maszyn do wdmuchiwania kabli."
+msgstr "of cable blowing machines."
+
+msgid "maszyna do wdmuchiwania kabli Blue Dragon Jet"
+msgstr "cable blowing machine by Blue Dragon Jet"
+
+msgid "Profesjonalna maszyna do wdmuchiwania kabli światłowodowych – produkcja GAMM-BUD / Blue Dragon Jet (Polska, UE)."
+msgstr "Professional fibre-optic cable blowing machine – manufactured by GAMM-BUD / Blue Dragon Jet (Poland, EU)."
+
+msgid "Poprzednie zdjęcie"
+msgstr "Previous photo"
+
+msgid "Następne zdjęcie"
+msgstr "Next photo"
+
+msgid "Powiększ zdjęcie"
+msgstr "Zoom image"
+
+msgid "Zdjęcie %d"
+msgstr "Photo %d"
+
+msgid "Maszyna do wdmuchiwania kabli światłowodowych"
+msgstr "Fibre-optic cable blowing machine"
+
+msgid "Ocena 4.8 na 5"
+msgstr "Rating 4.8 out of 5"
+
+msgid "Czytaj opinie"
+msgstr "Read reviews"
+
+msgid "36 miesięcy (maszyny wdmuchujące)"
+msgstr "36 months (cable blowing machines)"
+
+msgid "GAMM-BUD Sp. z o.o. / Blue Dragon Jet (Polska, UE)"
+msgstr "GAMM-BUD Sp. z o.o. / Blue Dragon Jet (Poland, EU)"
+
+msgid "Zobacz produkt"
+msgstr "View product"
+
+msgid "Zapytaj o zestaw"
+msgstr "Ask about the set"
+
+msgid "Sprzęt uzupełniający dopasowany do tej maszyny. Zapytaj naszych specjalistów o kompletny zestaw."
+msgstr "Complementary equipment matched to this machine. Ask our specialists about a complete set."
+
+msgid "Pobierz dokumentację techniczną dla tej maszyny."
+msgstr "Download technical documentation for this machine."
+
+msgid "Pobierz"
+msgstr "Download"
+
+msgid "Dokumentacja techniczna dostępna po kontakcie z przedstawicielem handlowym."
+msgstr "Technical documentation available on request from our sales representative."
+
+msgid "Na żądanie"
+msgstr "On request"
+
+msgid "Zamów dokumentację"
+msgstr "Request documentation"
+
+msgid "Zweryfikowane zakupy od instalatorów i dystrybutorów z całego świata"
+msgstr "Verified purchases from installers and distributors worldwide"
+
+msgid "Sprawdź też te maszyny"
+msgstr "You may also like"
+
+msgid "Powiększone zdjęcie"
+msgstr "Zoomed image"
+
+msgid "Zamknij"
+msgstr "Close"
+
+msgid "Polska"
+msgstr "Poland"
+
+msgid "Potrzebujesz serwisu?"
+msgstr "Need service?"
+
+msgid "Usterka, przegląd, kalibracja lub zamówienie części — nasz zespół odpowiada w ciągu 24h. Zgłoś usterkę online, zanim straci czas na przestój."
+msgstr "Fault, inspection, calibration or ordering parts — our team responds within 24h. Report the issue online before downtime costs you time."
+
+msgid "Zgłoś usterkę"
+msgstr "Report a fault"
+
+msgid "Niemcy"
+msgstr "Germany"
+
+msgid "Francja"
+msgstr "France"
+
+msgid "Zweryfikowany"
+msgstr "Verified"
+
+msgid "36 mies. gwarancja"
+msgstr "36 mon. warranty"
+
+msgid "36 miesięcy gwarancji"
+msgstr "36 months warranty"
+
+msgid "3× dłuższa niż standard branżowy — inwestujesz raz, pracujesz bez stresu latami."
+msgstr "3× longer than the industry standard — invest once, work stress-free for years."
+
+msgid "60+ krajów"
+msgstr "60+ countries"
+
+msgid "Akademia BDJ uczy Twój zespół, jak maksymalnie wykorzystać sprzęt od pierwszego dnia."
+msgstr "BDJ Academy trains your team to get the most out of the equipment from day one."
+
+msgid "Certyfikaty"
+msgstr "Certificates"
+
+msgid "Części zamienne dostępne od ręki. Żadnych tygodni oczekiwania z importu."
+msgstr "Spare parts available off the shelf. No weeks waiting for imports."
+
+msgid "Dane techniczne"
+msgstr "Technical specifications"
+
+msgid "Dokumenty"
+msgstr "Documents"
+
+msgid "Dostawa 24h"
+msgstr "24h delivery"
+
+msgid "Dostawa do Europy w 3–5 dni roboczych"
+msgstr "Delivery to Europe in 3–5 working days"
+
+msgid "Dostępna — wysyłka w ciągu 24h"
+msgstr "Available — ships within 24h"
+
+msgid "Dostępny"
+msgstr "Available"
+
+msgid "Europa 3–5 dni roboczych; reszta świata 7–14 dni"
+msgstr "Europe 3–5 working days; rest of world 7–14 days"
+
+msgid "Europejska produkcja = szybki serwis"
+msgstr "European production = fast service"
+
+msgid "Idealne do zestawu z"
+msgstr "Ideal set with"
+
+msgid "Informacje o produkcie"
+msgstr "Product information"
+
+msgid "Kabel"
+msgstr "Cable"
+
+msgid "Korzyści dla Ciebie"
+msgstr "Benefits for you"
+
+msgid "Mikrorurka"
+msgstr "Microduct"
+
+msgid "Na stanie — wysyłka w 24h"
+msgstr "In stock — ships within 24h"
+
+msgid "Opis"
+msgstr "Description"
+
+msgid "Pasuje do zestawu"
+msgstr "Compatible set"
+
+msgid "Precyzja na każdym odcinku"
+msgstr "Precision at every run"
+
+msgid "Szkolenie w cenie"
+msgstr "Training included"
+
+msgid "Znajdź dystrybutora"
+msgstr "Find a distributor"
+
+msgid "opinie"
+msgstr "reviews"
+
+msgid "Średnica kabla / mikrorurki"
+msgstr "Cable / microduct diameter"
+
+msgid "Średnica rury / mikrokanalizacji"
+msgstr "Pipe / microduct diameter"
+
+msgid "Stopka strony"
+msgstr "Site footer"
+
+msgid "Europejski producent maszyn do wdmuchiwania kabli i mikrokabli światłowodowych."
+msgstr "European manufacturer of cable and microduct blowing machines."
+
+msgid "Kliknij poniższy przycisk, aby przejść do systemu zgłoszeń serwisowych."
+msgstr "Click the button below to go to the service request system."
+
+msgid "Serwis i naprawy"
+msgstr "Service and repairs"
+
+msgid "maszyn Blue Dragon Jet"
+msgstr "Blue Dragon Jet machines"
+
+msgid "Usterka? Potrzebujesz przeglądu lub kalibracji? Nasz zespół serwisowy działa szybko — wypełnij formularz, odezwiemy się w ciągu 24h i skoordynujemy naprawę od A do Z."
+msgstr "Fault? Need an inspection or calibration? Our service team acts fast — fill in the form, we'll get back to you within 24h and coordinate the repair from A to Z."
+
+msgid "Czas reakcji"
+msgstr "Response time"
+
+msgid "Mies. gwarancja"
+msgstr "Mo. warranty"
+
+msgid "Oryg. części"
+msgstr "OEM parts"
+
+msgid "Krajów obsługi"
+msgstr "Countries served"
+
+msgid "Co oferujemy"
+msgstr "What we offer"
+
+msgid "Kompleksowa obsługa serwisowa"
+msgstr "Comprehensive service support"
+
+msgid "Każda maszyna BDJ objęta jest pełnym wsparciem — od gwarancji, przez części zamienne, aż po regularne przeglądy i kalibrację."
+msgstr "Every BDJ machine is covered by full support — from warranty to spare parts, regular inspections and calibration."
+
+msgid "Serwis gwarancyjny i pogwarancyjny"
+msgstr "In-warranty and post-warranty service"
+
+msgid "Naprawiamy wszystkie modele BDJ — w gwarancji bezpłatnie, poza nią: transparentny kosztorys zanim cokolwiek rozłożymy."
+msgstr "We repair all BDJ models — free of charge under warranty; otherwise a transparent quote before we disassemble anything."
+
+msgid "Zdalna diagnostyka bez wysyłki maszyny"
+msgstr "Remote diagnosis without shipping the machine"
+
+msgid "Wiele usterek rozwiązujemy przez telefon lub videokonsultację — nasz technik przeprowadza Cię krok po kroku, bez kosztów transportu."
+msgstr "Many faults are resolved by phone or video consultation — our technician guides you step by step, with no transport costs."
+
+msgid "Przeglądy okresowe i kalibracja"
+msgstr "Periodic inspections and calibration"
+
+msgid "Regularne przeglądy i certyfikowana kalibracja zapewniają precyzję i niezawodność — Twoja maszyna wraca z protokołem serwisowym i nową gwarancją na naprawione części."
+msgstr "Regular inspections and certified calibration ensure precision and reliability — your machine returns with a service report and a new warranty on repaired parts."
+
+msgid "Jak to działa"
+msgstr "How it works"
+
+msgid "Proces serwisowy w 4 krokach"
+msgstr "Service process in 4 steps"
+
+msgid "Wypełnij formularz"
+msgstr "Fill in the form"
+
+msgid "Opisz usterkę i podaj model maszyny. Zajmuje to mniej niż 2 minuty."
+msgstr "Describe the fault and provide the machine model. It takes less than 2 minutes."
+
+msgid "Wycena w 24h"
+msgstr "Quote within 24h"
+
+msgid "Nasz technik analizuje zgłoszenie i kontaktuje się z wyceną lub zdalną diagnostyką."
+msgstr "Our technician analyses the request and gets in touch with a quote or remote diagnosis."
+
+msgid "Naprawa lub wysyłka"
+msgstr "Repair or shipment"
+
+msgid "Rozwiązujemy problem zdalnie lub wysyłamy część / organizujemy odbiór maszyny."
+msgstr "We resolve the issue remotely or ship the part / arrange machine collection."
+
+msgid "Protokół i zwrot"
+msgstr "Report and return"
+
+msgid "Otrzymujesz protokół serwisowy i maszynę gotową do pracy — z nową gwarancją na naprawione części."
+msgstr "You receive a service report and a machine ready to work — with a new warranty on repaired parts."
+
+msgid "Formularz serwisowy"
+msgstr "Service form"
+
+msgid "Zgłoś usterkę online"
+msgstr "Report a fault online"
+
+msgid "Wypełnij formularz jak najdokładniej — im więcej szczegółów, tym szybciej nasz technik zdiagnozuje problem i zaproponuje rozwiązanie. Odpowiadamy w ciągu"
+msgstr "Fill in the form as thoroughly as possible — the more details, the faster our technician can diagnose the problem and propose a solution. We respond within"
+
+msgid "24 godzin roboczych"
+msgstr "24 working hours"
+
+msgid "Telefon serwisowy"
+msgstr "Service phone"
+
+msgid "E-mail serwisowy"
+msgstr "Service e-mail"
+
+msgid "Godziny pracy serwisu"
+msgstr "Service hours"
+
+msgid "Pon–Pt: 8:00–16:00"
+msgstr "Mon–Fri: 8:00–16:00"
+
+msgid "Formularz zgłoszenia serwisowego"
+msgstr "Service request form"
+
+msgid "Polska inżynieria"
+msgstr "Polish engineering"
+
+msgid "na rynkach całego świata"
+msgstr "in markets around the world"
+
+msgid "Od ponad dwóch dekad projektujemy i produkujemy maszyny do wdmuchiwania kabli, które pracują w ponad 60 krajach. Łączymy doświadczenie inżynierów z nowoczesną technologią CNC — wszystko pod jednym dachem, w Polsce."
+msgstr "For over two decades we have been designing and manufacturing cable blowing machines that work in over 60 countries. We combine engineering expertise with modern CNC technology — all under one roof, in Poland."
+
+msgid "Liczby"
+msgstr "Figures"
+
+msgid "krajów eksportu"
+msgstr "export countries"
+
+msgid "lat doświadczenia"
+msgstr "years of experience"
+
+msgid "gwarancja na maszyny"
+msgstr "machine warranty"
+
+msgid "9001:2015 od 2001 r."
+msgstr "9001:2015 since 2001"
+
+msgid "Siedziba firmy GAMM-BUD — producent maszyn Blue Dragon Jet"
+msgstr "GAMM-BUD headquarters — manufacturer of Blue Dragon Jet machines"
+
+msgid "Nasza historia"
+msgstr "Our story"
+
+msgid "GAMM-BUD — maszyny, które pracują na całym świecie"
+msgstr "GAMM-BUD — machines that work around the world"
+
+msgid "Jesteśmy polskim producentem maszyn do wdmuchiwania kabli i mikrokanalizacji, działającym pod marką"
+msgstr "We are a Polish manufacturer of cable and microduct blowing machines, operating under the brand"
+
+msgid "Projektujemy, konstruujemy i wytwarzamy wszystko we własnym zakładzie — od prototypu po gotową maszynę, gotową do pracy w terenie."
+msgstr "We design, engineer and manufacture everything in our own facility — from prototype to finished machine, ready for fieldwork."
+
+msgid "Nasze urządzenia docierają do instalatorów i dystrybutorów w ponad"
+msgstr "Our equipment reaches installers and distributors in over"
+
+msgid "krajach"
+msgstr "countries"
+
+msgid "— od Europy przez Bliski Wschód po Azję i obie Ameryki. Za każdą maszyną stoi interdyscyplinarny zespół: inżynierowie konstrukcyjni, programiści, operatorzy CNC i specjaliści ds. jakości."
+msgstr "— from Europe through the Middle East to Asia and both Americas. Behind every machine stands an interdisciplinary team: structural engineers, programmers, CNC operators and quality specialists."
+
+msgid "Wierzymy, że dobra inżynieria to nie tylko precyzja wykonania, ale też rzetelna obsługa po sprzedaży. Dlatego oferujemy"
+msgstr "We believe that good engineering is not only about precision of execution, but also reliable after-sales support. That is why we offer a"
+
+msgid "36-miesięczną gwarancję"
+msgstr "36-month warranty"
+
+msgid "na maszyny wdmuchujące i pełne wsparcie techniczne niezależnie od miejsca, w którym pracuje Twój sprzęt."
+msgstr "on blowing machines and full technical support regardless of where your equipment operates."
+
+msgid "Dlaczego Blue Dragon Jet"
+msgstr "Why Blue Dragon Jet"
+
+msgid "Co wyróżnia nasze maszyny"
+msgstr "What sets our machines apart"
+
+msgid "Produkcja własna, pełna kontrola"
+msgstr "In-house production, full control"
+
+msgid "Każda maszyna powstaje w naszym zakładzie — od projektu CAD, przez obróbkę CNC, po końcowe testy. Nie podwykonawcy, nie kompromisy w jakości."
+msgstr "Every machine is built in our facility — from CAD design through CNC machining to final testing. No subcontractors, no compromises on quality."
+
+msgid "36-miesięczna gwarancja"
+msgstr "36-month warranty"
+
+msgid "Standardowe 12 miesięcy gwarancji na akcesoria i aż 36 miesięcy na maszyny wdmuchujące. Wiemy, że nasz sprzęt wytrzyma — i gwarantujemy to na piśmie."
+msgstr "Standard 12 months warranty on accessories and up to 36 months on blowing machines. We know our equipment will last — and we guarantee it in writing."
+
+msgid "Zasięg globalny"
+msgstr "Global reach"
+
+msgid "Działamy w ponad 60 krajach dzięki sieci zaufanych dystrybutorów. Lokalna obsługa, globalna jakość — dostarczamy sprzęt tam, gdzie potrzebujesz."
+msgstr "We operate in over 60 countries through a network of trusted distributors. Local service, global quality — we deliver equipment wherever you need it."
+
+msgid "Nasi inżynierowie są dostępni zarówno zdalnie, jak i w terenie. Oferujemy szkolenia operatorów, serwis gwarancyjny i pogwarancyjny oraz szybką realizację części zamiennych."
+msgstr "Our engineers are available both remotely and on-site. We offer operator training, in-warranty and post-warranty service, and fast delivery of spare parts."
+
+msgid "Interdyscyplinarny zespół"
+msgstr "Interdisciplinary team"
+
+msgid "Inżynierowie, konstruktorzy, programiści i operatorzy CNC pracują razem pod jednym dachem. To skraca czas reakcji i pozwala szybko wdrażać niestandardowe rozwiązania."
+msgstr "Engineers, designers, programmers and CNC operators work together under one roof. This shortens response times and allows custom solutions to be implemented quickly."
+
+msgid "Produkt z Unii Europejskiej"
+msgstr "Product from the European Union"
+
+msgid "Nasze maszyny są projektowane i wytwarzane w Polsce (UE), zgodnie z europejskimi normami bezpieczeństwa. Precyzyjna inżynieria w konkurencyjnej cenie."
+msgstr "Our machines are designed and manufactured in Poland (EU), in compliance with European safety standards. Precision engineering at a competitive price."
+
+msgid "Jakość potwierdzona"
+msgstr "Certified quality"
+
+msgid "Certyfikat ISO 9001:2015"
+msgstr "ISO 9001:2015 certificate"
+
+msgid "— od 2001 roku"
+msgstr "— since 2001"
+
+msgid "System zarządzania jakością wdrożyliśmy, kiedy większość branży dopiero o nim słyszała. Dziś certyfikat ISO jest dla nas standardem, a nie wyróżnikiem — bo jakość zaczyna się przy projektowaniu, nie przy kontroli końcowej."
+msgstr "We implemented our quality management system when most of the industry had barely heard of it. Today the ISO certificate is our baseline, not a differentiator — because quality starts at the design stage, not at final inspection."
+
+msgid "Certyfikat nr"
+msgstr "Certificate no."
+
+msgid "Projekt &amp; produkcja"
+msgstr "Design &amp; production"
+
+msgid "w Polsce (UE)"
+msgstr "in Poland (EU)"
+
+msgid "Gwarancja na"
+msgstr "Warranty for"
+
+msgid "maszyny wdmuchujące"
+msgstr "blowing machines"
+
+msgid "Chcesz wiedzieć więcej?"
+msgstr "Want to know more?"
+
+msgid "Skontaktuj się z nami — chętnie opowiemy o naszych rozwiązaniach, pokażemy maszyny w akcji lub umówimy prezentację na żywo."
+msgstr "Get in touch — we'll be happy to tell you about our solutions, show the machines in action or arrange a live demonstration."
+
+msgid "Skontaktuj się"
+msgstr "Contact us"
+
+msgid "Zobacz maszyny"
+msgstr "See machines"
+
+msgid "Formularz zapytania"
+msgstr "Inquiry form"
+
+msgid "Czego dotyczy zapytanie?"
+msgstr "What is your inquiry about?"
+
+msgid "Kliknij kafelek, aby przejść do wyboru produktów."
+msgstr "Click a tile to proceed to product selection."
+
+msgid "Urządzenia do wdmuchiwania kabli i mikrokanalizacji"
+msgstr "Cable blowing machines and micro-duct equipment"
+
+msgid "Głowice, adaptery, uszczelki i części zamienne"
+msgstr "Heads, adapters, seals and spare parts"
+
+msgid "Wybierz produkty"
+msgstr "Select products"
+
+msgid "Możesz zaznaczyć kilka pozycji."
+msgstr "You can select multiple items."
+
+msgid "Wybierz maszyny"
+msgstr "Select machines"
+
+msgid "Wybierz akcesoria"
+msgstr "Select accessories"
+
+msgid "Wybierz przynajmniej jeden produkt."
+msgstr "Please select at least one product."
+
+msgid "Twoje dane kontaktowe"
+msgstr "Your contact details"
+
+msgid "Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "We will reply within 24 business hours."
+
+msgid "Dodatkowa wiadomość"
+msgstr "Additional message"
+
+msgid "Opcjonalnie — szczegóły, termin realizacji, pytania techniczne..."
+msgstr "Optional — details, delivery date, technical questions..."
+
+msgid "Wyrażam zgodę na przetwarzanie moich danych osobowych przez GAMM-BUD Sp. z o.o. (Skarbimierzyce 22, 72-002 Dołuje) w celu udzielenia odpowiedzi na zapytanie — zgodnie z RODO. *"
+msgstr "I consent to the processing of my personal data by GAMM-BUD Sp. z o.o. (Skarbimierzyce 22, 72-002 Dołuje) for the purpose of responding to my inquiry — in accordance with GDPR. *"
+
+msgid "Wypełnij wymagane pola i zaznacz zgodę RODO."
+msgstr "Please fill in all required fields and accept the GDPR consent."
+
+msgid "Powiedz nam, czego szukasz — przeprowadzimy Cię przez kilka prostych kroków, aby dopasować ofertę do Twoich potrzeb."
+msgstr "Tell us what you are looking for — we will guide you through a few simple steps to match our offer to your needs."
+
+msgid "Odpowiedź w 24h"
+msgstr "Reply within 24h"
+
+msgid "3 proste kroki"
+msgstr "3 simple steps"
+
+msgid "Masz pytanie o nasze produkty?"
+msgstr "Do you have a question about our products?"
+
+msgid "Wybierz kategorię i produkty — dopasujemy ofertę do Twoich potrzeb i odezwiemy się w ciągu jednego dnia roboczego."
+msgstr "Choose a category and products — we will tailor our offer to your needs and get back to you within one business day."
+
+msgid "Wysłano"
+msgstr "Sent"
+
+msgid "Akcesoria"
+msgstr "Accessories"
+
+msgid "Brak dokładnego dopasowania — wybierz inne parametry lub zaznacz maszynę ręcznie."
+msgstr "No exact match — select different parameters or choose a machine manually."
+
+msgid "Błąd wysyłki. Spróbuj ponownie lub zadzwoń."
+msgstr "Send error. Please try again or call us."
+
+msgid "Dalej"
+msgstr "Next"
+
+msgid "Dane"
+msgstr "Details"
+
+msgid "Dziękujemy za kontakt. Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "Thank you for contacting us. We will reply within 24 business hours."
+
+msgid "Dziękujemy. Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "Thank you. We will reply within 24 business hours."
+
+msgid "Głowice, adaptery, części zamienne i wyposażenie dodatkowe"
+msgstr "Heads, adapters, spare parts and additional equipment"
+
+msgid "Kliknij kafelek, aby przejść dalej."
+msgstr "Click a tile to continue."
+
+msgid "Możesz wybrać kilka pozycji jednocześnie."
+msgstr "You can select multiple items at once."
+
+msgid "Polecane"
+msgstr "Recommended"
+
+msgid "Rurka"
+msgstr "Duct"
+
+msgid "Twój wybór:"
+msgstr "Your selection:"
+
+msgid "Uzupełnij formularz — odpiszemy w ciągu 24 godzin."
+msgstr "Fill in the form — we will reply within 24 hours."
+
+msgid "Wiadomość wysłana!"
+msgstr "Message sent!"
+
+msgid "Wstecz"
+msgstr "Back"
+
+msgid "Wybierz kategorię i produkty, które Cię interesują — przygotujemy odpowiedź dopasowaną do Twojego zapytania."
+msgstr "Select a category and products you're interested in — we'll prepare a reply tailored to your enquiry."
+
+msgid "Wypełnij wszystkie wymagane pola i zaznacz zgodę RODO."
+msgstr "Fill in all required fields and check the GDPR consent."
+
+msgid "Wyrażam zgodę na przetwarzanie moich danych osobowych przez GAMM-BUD Sp. z o.o. w celu odpowiedzi na zapytanie (zgodnie z RODO). *"
+msgstr "I consent to the processing of my personal data by GAMM-BUD Sp. z o.o. for the purpose of replying to this enquiry (in accordance with GDPR). *"
+
+msgid "Wyślij zapytanie"
+msgstr "Send enquiry"
+
+msgid "maszyn pasuje do wybranych parametrów"
+msgstr "machines match the selected parameters"
+
+msgid "Śr. wewnętrzna rurki"
+msgstr "Inner Ø of duct"
+
+msgid "Śr. zewnętrzna kabla"
+msgstr "Outer Ø of cable"
