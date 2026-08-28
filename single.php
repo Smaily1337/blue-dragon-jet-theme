@@ -46,7 +46,7 @@
         <aside class="post-sidebar">
 
             <!-- Powrót -->
-            <a href="<?php echo esc_url( get_post_type_archive_link( 'post' ) ?: home_url( '/blog/' ) ); ?>" class="post-sidebar__back">
+            <a href="<?php echo esc_url( home_url( '/artykuly/' ) ); ?>" class="post-sidebar__back">
                 &larr; <?php esc_html_e( 'Wszystkie artykuły', 'blue-dragon-jet' ); ?>
             </a>
 

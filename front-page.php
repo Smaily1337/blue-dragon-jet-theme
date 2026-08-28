@@ -1551,13 +1551,15 @@ $latest_posts = new WP_Query( [
     'post_status'    => 'publish',
     'orderby'        => 'date',
     'order'          => 'DESC',
+    'lang'           => '',
 ] );
 if ( $latest_posts->have_posts() ) : ?>
 <section class="home-articles">
     <div class="container">
         <header class="home-articles__header">
             <h2 class="home-articles__title"><?php esc_html_e( 'Najnowsze artykuły', 'blue-dragon-jet' ); ?></h2>
-            <a href="<?php echo esc_url( get_post_type_archive_link( 'post' ) ?: home_url( '/blog/' ) ); ?>" class="home-articles__all"><?php esc_html_e( 'Wszystkie artykuły', 'blue-dragon-jet' ); ?> &rarr;</a>
+            <?php $articles_page_url = home_url( '/artykuly/' ); ?>
+            <a href="<?php echo esc_url( $articles_page_url ); ?>" class="home-articles__all"><?php esc_html_e( 'Wszystkie artykuły', 'blue-dragon-jet' ); ?> &rarr;</a>
         </header>
         <div class="home-articles__grid">
             <?php while ( $latest_posts->have_posts() ) : $latest_posts->the_post(); ?>

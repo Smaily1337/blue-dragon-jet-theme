@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying archive pages (categories, tags, etc.).
+ * Template Name: Artykuły / Baza wiedzy
  *
  * @package BlueDragonJet
  */
@@ -11,39 +11,42 @@ $lang = function_exists( 'bdj_current_lang' ) ? bdj_current_lang() : 'pl';
 
 $labels = [
     'pl' => [
-        'eyebrow'     => 'Kategoria artykułów',
+        'eyebrow'     => 'Baza wiedzy & aktualności',
+        'title'       => 'Artykuły i poradniki techniczne',
         'subtitle'    => 'Praktyczna wiedza inżynieryjna, poradniki wdmuchiwania światłowodów i nowości ze świata Blue Dragon Jet.',
         'all'         => 'Wszystkie',
-        'search_ph'   => 'Szukaj w tej kategorii...',
+        'search_ph'   => 'Szukaj w artykułach...',
         'read_more'   => 'Czytaj artykuł',
         'read_time'   => 'min czytania',
-        'no_results'  => 'Brak artykułów w tej kategorii',
+        'no_results'  => 'Brak artykułów spełniających kryteria',
         'no_res_desc' => 'Spróbuj wpisać inną frazę lub zresetuj wyszukiwanie.',
         'reset'       => 'Pokaż wszystkie artykuły',
         'prev'        => 'Poprzednia',
         'next'        => 'Następna',
     ],
     'en' => [
-        'eyebrow'     => 'Article Category',
+        'eyebrow'     => 'Knowledge Base & News',
+        'title'       => 'Articles & Technical Guides',
         'subtitle'    => 'Practical engineering knowledge, cable blowing guides and news from Blue Dragon Jet.',
         'all'         => 'All',
-        'search_ph'   => 'Search in this category...',
+        'search_ph'   => 'Search articles...',
         'read_more'   => 'Read article',
         'read_time'   => 'min read',
-        'no_results'  => 'No articles found in this category',
+        'no_results'  => 'No articles found',
         'no_res_desc' => 'Try another search term or reset the filter.',
         'reset'       => 'Show all articles',
         'prev'        => 'Previous',
         'next'        => 'Next',
     ],
     'de' => [
-        'eyebrow'     => 'Artikelkategorie',
+        'eyebrow'     => 'Wissensdatenbank & Aktuelles',
+        'title'       => 'Artikel & Technische Anleitungen',
         'subtitle'    => 'Praktisches Ingenieurwissen, Anleitungen zum Kabeleinblasen und Neuigkeiten von Blue Dragon Jet.',
         'all'         => 'Alle',
-        'search_ph'   => 'In dieser Kategorie suchen...',
+        'search_ph'   => 'Artikel durchsuchen...',
         'read_more'   => 'Artikel lesen',
         'read_time'   => 'Min. Lesezeit',
-        'no_results'  => 'Keine Artikel in dieser Kategorie gefunden',
+        'no_results'  => 'Keine Artikel gefunden',
         'no_res_desc' => 'Versuchen Sie einen anderen Suchbegriff oder setzen Sie den Filter zurück.',
         'reset'       => 'Alle Artikel anzeigen',
         'prev'        => 'Vorherige',
@@ -53,10 +56,20 @@ $labels = [
 
 $l = $labels[ $lang ] ?? $labels['pl'];
 
-$current_term = get_queried_object();
 $all_cats     = get_terms( [ 'taxonomy' => 'article_category', 'hide_empty' => true ] );
-$articles_url = get_permalink( get_option( 'page_for_posts' ) ) ?: home_url( '/artykuly/' );
-$archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false ) ?: __( 'Artykuły', 'blue-dragon-jet' ) );
+$articles_url = home_url( '/artykuly/' );
+
+$paged = ( get_query_var( 'paged' ) ) ? get_query_var( 'paged' ) : ( ( get_query_var( 'page' ) ) ? get_query_var( 'page' ) : 1 );
+
+$articles_query = new WP_Query( [
+    'post_type'      => 'post',
+    'post_status'    => 'publish',
+    'posts_per_page' => 12,
+    'paged'          => $paged,
+    'orderby'        => 'date',
+    'order'          => 'DESC',
+    'lang'           => '',
+] );
 ?>
 
 <!-- ── Hero ── -->
@@ -64,7 +77,7 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
     <div class="page-hero__overlay"></div>
     <div class="container page-hero__content">
         <span class="page-hero__eyebrow"><?php echo esc_html( $l['eyebrow'] ); ?></span>
-        <h1 class="page-hero__title"><?php echo esc_html( $archive_title ); ?></h1>
+        <h1 class="page-hero__title"><?php echo esc_html( $l['title'] ); ?></h1>
         <p class="page-hero__subtitle"><?php echo esc_html( $l['subtitle'] ); ?></p>
     </div>
 </section>
@@ -75,13 +88,13 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
         <div class="archive-filter__inner">
             <div class="archive-filter__nav">
                 <a href="<?php echo esc_url( $articles_url ); ?>"
-                   class="archive-filter__btn<?php echo ( ! is_tax( 'article_category' ) && ! is_category() ) ? ' is-active' : ''; ?>">
+                   class="archive-filter__btn is-active">
                     <?php echo esc_html( $l['all'] ); ?>
                 </a>
                 <?php if ( ! empty( $all_cats ) && ! is_wp_error( $all_cats ) ) : ?>
                     <?php foreach ( $all_cats as $cat ) : ?>
                         <a href="<?php echo esc_url( get_term_link( $cat ) ); ?>"
-                           class="archive-filter__btn<?php echo ( is_tax( 'article_category', $cat->term_id ) ) ? ' is-active' : ''; ?>">
+                           class="archive-filter__btn">
                             <?php echo esc_html( $cat->name ); ?> (<?php echo esc_html( $cat->count ); ?>)
                         </a>
                     <?php endforeach; ?>
@@ -112,9 +125,9 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
 <section class="blog-archive">
     <div class="container">
 
-        <?php if ( have_posts() ) : ?>
+        <?php if ( $articles_query->have_posts() ) : ?>
         <div class="blog-archive__grid" id="bdj-articles-grid">
-            <?php while ( have_posts() ) : the_post();
+            <?php while ( $articles_query->have_posts() ) : $articles_query->the_post();
                 $content = get_the_content();
                 $word_count = str_word_count( strip_tags( $content ) );
                 $reading_time = max( 1, ceil( $word_count / 200 ) );
@@ -176,7 +189,7 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
                 </a>
             </article>
 
-            <?php endwhile; ?>
+            <?php endwhile; wp_reset_postdata(); ?>
         </div>
 
         <!-- Stan braku wyników wyszukiwania (JS) -->
@@ -192,13 +205,21 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
             </button>
         </div>
 
-        <?php the_posts_pagination( [
-            'mid_size'           => 2,
-            'prev_text'          => '&larr; ' . $l['prev'],
-            'next_text'          => $l['next'] . ' &rarr;',
-            'screen_reader_text' => ' ',
-            'class'              => 'archive-pagination',
-        ] ); ?>
+        <?php if ( $articles_query->max_num_pages > 1 ) : ?>
+        <nav class="navigation archive-pagination" role="navigation" aria-label="Paginacja artykułów">
+            <div class="nav-links">
+                <?php
+                echo paginate_links( [
+                    'total'        => $articles_query->max_num_pages,
+                    'current'      => $paged,
+                    'mid_size'     => 2,
+                    'prev_text'    => '&larr; ' . $l['prev'],
+                    'next_text'    => $l['next'] . ' &rarr;',
+                ] );
+                ?>
+            </div>
+        </nav>
+        <?php endif; ?>
 
         <?php else : ?>
         <div class="archive-empty">

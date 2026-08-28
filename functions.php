@@ -1334,3 +1334,15 @@ function bdj_ajax_live_search_handler(): void {
     wp_send_json_success( $results );
 }
 
+/**
+ * Redirect legacy /blog/ to /artykuly/
+ */
+add_action( 'template_redirect', function() {
+    $path = trim( (string) parse_url( $_SERVER['REQUEST_URI'] ?? '', PHP_URL_PATH ), '/' );
+    if ( $path === 'blog' || preg_match( '#^(en|de)/blog$#', $path ) ) {
+        $target = get_permalink( get_option( 'page_for_posts' ) ) ?: home_url( '/artykuly/' );
+        wp_safe_redirect( $target, 301 );
+        exit;
+    }
+} );
+

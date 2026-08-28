@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying archive pages (categories, tags, etc.).
+ * The template for displaying the blog posts index (/artykuly/).
  *
  * @package BlueDragonJet
  */
@@ -11,39 +11,42 @@ $lang = function_exists( 'bdj_current_lang' ) ? bdj_current_lang() : 'pl';
 
 $labels = [
     'pl' => [
-        'eyebrow'     => 'Kategoria artykułów',
+        'eyebrow'     => 'Baza wiedzy & aktualności',
+        'title'       => 'Artykuły i poradniki techniczne',
         'subtitle'    => 'Praktyczna wiedza inżynieryjna, poradniki wdmuchiwania światłowodów i nowości ze świata Blue Dragon Jet.',
         'all'         => 'Wszystkie',
-        'search_ph'   => 'Szukaj w tej kategorii...',
+        'search_ph'   => 'Szukaj w artykułach...',
         'read_more'   => 'Czytaj artykuł',
         'read_time'   => 'min czytania',
-        'no_results'  => 'Brak artykułów w tej kategorii',
+        'no_results'  => 'Brak artykułów spełniających kryteria',
         'no_res_desc' => 'Spróbuj wpisać inną frazę lub zresetuj wyszukiwanie.',
         'reset'       => 'Pokaż wszystkie artykuły',
         'prev'        => 'Poprzednia',
         'next'        => 'Następna',
     ],
     'en' => [
-        'eyebrow'     => 'Article Category',
+        'eyebrow'     => 'Knowledge Base & News',
+        'title'       => 'Articles & Technical Guides',
         'subtitle'    => 'Practical engineering knowledge, cable blowing guides and news from Blue Dragon Jet.',
         'all'         => 'All',
-        'search_ph'   => 'Search in this category...',
+        'search_ph'   => 'Search articles...',
         'read_more'   => 'Read article',
         'read_time'   => 'min read',
-        'no_results'  => 'No articles found in this category',
+        'no_results'  => 'No articles found',
         'no_res_desc' => 'Try another search term or reset the filter.',
         'reset'       => 'Show all articles',
         'prev'        => 'Previous',
         'next'        => 'Next',
     ],
     'de' => [
-        'eyebrow'     => 'Artikelkategorie',
+        'eyebrow'     => 'Wissensdatenbank & Aktuelles',
+        'title'       => 'Artikel & Technische Anleitungen',
         'subtitle'    => 'Praktisches Ingenieurwissen, Anleitungen zum Kabeleinblasen und Neuigkeiten von Blue Dragon Jet.',
         'all'         => 'Alle',
-        'search_ph'   => 'In dieser Kategorie suchen...',
+        'search_ph'   => 'Artikel durchsuchen...',
         'read_more'   => 'Artikel lesen',
         'read_time'   => 'Min. Lesezeit',
-        'no_results'  => 'Keine Artikel in dieser Kategorie gefunden',
+        'no_results'  => 'Keine Artikel gefunden',
         'no_res_desc' => 'Versuchen Sie einen anderen Suchbegriff oder setzen Sie den Filter zurück.',
         'reset'       => 'Alle Artikel anzeigen',
         'prev'        => 'Vorherige',
@@ -53,10 +56,8 @@ $labels = [
 
 $l = $labels[ $lang ] ?? $labels['pl'];
 
-$current_term = get_queried_object();
-$all_cats     = get_terms( [ 'taxonomy' => 'article_category', 'hide_empty' => true ] );
+$all_cats    = get_terms( [ 'taxonomy' => 'article_category', 'hide_empty' => true ] );
 $articles_url = get_permalink( get_option( 'page_for_posts' ) ) ?: home_url( '/artykuly/' );
-$archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false ) ?: __( 'Artykuły', 'blue-dragon-jet' ) );
 ?>
 
 <!-- ── Hero ── -->
@@ -64,7 +65,7 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
     <div class="page-hero__overlay"></div>
     <div class="container page-hero__content">
         <span class="page-hero__eyebrow"><?php echo esc_html( $l['eyebrow'] ); ?></span>
-        <h1 class="page-hero__title"><?php echo esc_html( $archive_title ); ?></h1>
+        <h1 class="page-hero__title"><?php echo esc_html( $l['title'] ); ?></h1>
         <p class="page-hero__subtitle"><?php echo esc_html( $l['subtitle'] ); ?></p>
     </div>
 </section>
@@ -75,7 +76,7 @@ $archive_title = single_term_title( '', false ) ?: ( single_cat_title( '', false
         <div class="archive-filter__inner">
             <div class="archive-filter__nav">
                 <a href="<?php echo esc_url( $articles_url ); ?>"
-                   class="archive-filter__btn<?php echo ( ! is_tax( 'article_category' ) && ! is_category() ) ? ' is-active' : ''; ?>">
+                   class="archive-filter__btn<?php echo ( ! is_tax( 'article_category' ) ) ? ' is-active' : ''; ?>">
                     <?php echo esc_html( $l['all'] ); ?>
                 </a>
                 <?php if ( ! empty( $all_cats ) && ! is_wp_error( $all_cats ) ) : ?>
