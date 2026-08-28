@@ -1371,12 +1371,13 @@ a { color: inherit; text-decoration: none; }
 }
 
 .page-hero__title {
-    font-size: clamp(1.5rem, 5vw, 3rem);
+    font-size: clamp(1.35rem, 5.5vw, 2.8rem);
     font-weight: 700;
-    line-height: 1.2;
+    line-height: 1.25;
     letter-spacing: -0.02em;
     margin-bottom: 0.75rem;
-    word-wrap: break-word;
+    overflow-wrap: break-word;
+    word-break: normal;
 }
 
 .page-hero__subtitle {
