@@ -133,11 +133,19 @@ $articles_query = new WP_Query( [
                 $reading_time = max( 1, ceil( $word_count / 200 ) );
                 $cats = get_the_terms( get_the_ID(), 'article_category' );
                 $cat_name = ( $cats && ! is_wp_error( $cats ) ) ? $cats[0]->name : '';
+
+                // Clean excerpt by removing leading duplicate title
+                $title_str = get_the_title();
+                $excerpt_raw = get_the_excerpt();
+                $clean_excerpt = preg_replace( '/^' . preg_quote( wp_strip_all_tags( $title_str ), '/' ) . '\s*/i', '', wp_strip_all_tags( $excerpt_raw ) );
+                if ( empty( $clean_excerpt ) ) {
+                    $clean_excerpt = wp_strip_all_tags( $excerpt_raw );
+                }
             ?>
 
             <article class="article-card"
                      data-title="<?php echo esc_attr( strtolower( get_the_title() ) ); ?>"
-                     data-excerpt="<?php echo esc_attr( strtolower( wp_strip_all_tags( get_the_excerpt() ) ) ); ?>"
+                     data-excerpt="<?php echo esc_attr( strtolower( $clean_excerpt ) ); ?>"
                      data-cat="<?php echo esc_attr( strtolower( $cat_name ) ); ?>">
                 <a href="<?php the_permalink(); ?>" class="article-card__inner">
 
@@ -154,30 +162,29 @@ $articles_query = new WP_Query( [
 
                     <!-- Treść karty -->
                     <div class="article-card__body">
-                        <div class="article-card__meta-top" style="display:flex;align-items:center;justify-content:space-between;margin-bottom:0.75rem;">
-                            <?php if ( $cat_name ) : ?>
-                                <span class="article-card__cat" style="margin-bottom:0;"><?php echo esc_html( $cat_name ); ?></span>
-                            <?php else : ?>
-                                <span></span>
-                            <?php endif; ?>
-                            <span class="article-card__read-time" style="font-size:0.75rem;color:#7a95a8;display:inline-flex;align-items:center;gap:4px;">
-                                <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-                                <?php echo esc_html( $reading_time . ' ' . $l['read_time'] ); ?>
-                            </span>
-                        </div>
+                        <?php if ( $cat_name ) : ?>
+                            <span class="article-card__cat"><?php echo esc_html( $cat_name ); ?></span>
+                        <?php endif; ?>
 
                         <h2 class="article-card__title"><?php the_title(); ?></h2>
 
                         <div class="article-card__meta">
-                            <time datetime="<?php echo esc_attr( get_the_date( 'Y-m-d' ) ); ?>">
-                                📅 <?php echo esc_html( get_the_date() ); ?>
-                            </time>
+                            <span class="article-card__meta-item">
+                                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>
+                                <time datetime="<?php echo esc_attr( get_the_date( 'Y-m-d' ) ); ?>">
+                                    <?php echo esc_html( get_the_date() ); ?>
+                                </time>
+                            </span>
+                            <span class="article-card__meta-sep" aria-hidden="true">•</span>
+                            <span class="article-card__meta-item">
+                                <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+                                <span><?php echo esc_html( $reading_time . ' ' . $l['read_time'] ); ?></span>
+                            </span>
                         </div>
 
-                        <?php $excerpt = get_the_excerpt();
-                        if ( $excerpt ) : ?>
+                        <?php if ( $clean_excerpt ) : ?>
                             <p class="article-card__excerpt">
-                                <?php echo esc_html( wp_trim_words( $excerpt, 20 ) ); ?>
+                                <?php echo esc_html( wp_trim_words( $clean_excerpt, 22 ) ); ?>
                             </p>
                         <?php endif; ?>
 
