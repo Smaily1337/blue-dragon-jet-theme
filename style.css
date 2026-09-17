@@ -3251,9 +3251,6 @@ a.contact__info-value:hover { color: var(--color-secondary); }
 }
 .marquee-item:hover img { filter: grayscale(0) opacity(1); }
 
-/* ─── Opinie ─────────────────────────────────────────────────────────────── */
-.reviews {
-    padding: clamp(3rem, 6vw, 4.5rem) 0;
 /* ─── Reviews (Liquid Glass Testimonials) ────────────────────────────────── */
 .reviews {
     padding: var(--section-padding);
@@ -3971,66 +3968,85 @@ a.contact__info-value:hover { color: var(--color-secondary); }
     opacity: 0.85;
 }
 
-/* ─── Gallery Section ────────────────────────────────────────────────────── */
+/* ─── Gallery Section (Liquid Glass Photo & Video Grid) ──────────────────── */
 .gallery-section {
-    padding: clamp(3rem, 7vw, 5rem) 0;
-    background: var(--color-white);
+    padding: var(--section-padding);
+    background: #ffffff;
+    position: relative;
 }
 
 .gallery-section__heading {
-    font-size: clamp(1.6rem, 3.5vw, 2.2rem);
+    font-size: clamp(1.8rem, 4vw, 2.6rem);
     font-weight: 800;
     color: var(--color-primary);
     text-align: center;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.6rem;
+    letter-spacing: -0.02em;
 }
 
 .gallery-section__sub {
     text-align: center;
-    font-size: 1rem;
-    color: #6a88a0;
-    margin-bottom: 2.5rem;
+    font-size: 1.05rem;
+    color: #627d98;
+    margin-bottom: 2.75rem;
 }
 
 .gallery-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 0.75rem;
+    gap: 1.25rem;
 }
 
 .gallery-grid__item {
     overflow: hidden;
-    border-radius: var(--radius);
+    border-radius: var(--radius-xl);
     background: #e4edf5;
     cursor: pointer;
+    position: relative;
+    aspect-ratio: 16 / 10;
+    box-shadow: 0 8px 25px rgba(14, 36, 55, 0.06);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    transition: all 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.gallery-grid__item:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 16px 36px rgba(36, 151, 208, 0.15);
+    border-color: rgba(36, 151, 208, 0.4);
 }
 
 /* Item 1: wide (2 cols), item 2: narrow, item 3: narrow, item 4: wide (2 cols) */
-.gallery-grid__item--wide          { grid-column: span 2; }
-.gallery-grid__item:nth-child(4)   { grid-column: span 2; }
+.gallery-grid__item--wide {
+    grid-column: span 2;
+    aspect-ratio: 21 / 10;
+}
+
+.gallery-grid__item:nth-child(4) {
+    grid-column: span 2;
+    aspect-ratio: 21 / 10;
+}
 
 .gallery-grid__item img {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: center;
     display: block;
-    transition: transform 0.5s ease;
-    aspect-ratio: 16/10;
+    transition: transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
-.gallery-grid__item--wide img         { aspect-ratio: 21/10; }
-.gallery-grid__item:nth-child(4) img  { aspect-ratio: 21/10; }
-
-.gallery-grid__item:hover img { transform: scale(1.04); }
+.gallery-grid__item:hover img {
+    transform: scale(1.05);
+}
 
 /* Video block inside gallery section */
 .gallery-video-wrap {
     position: relative;
-    border-radius: var(--radius);
+    border-radius: var(--radius-xl);
     overflow: hidden;
     background: #000;
-    aspect-ratio: 16/9;
-    margin-top: 2rem;
+    aspect-ratio: 16 / 9;
+    box-shadow: 0 10px 30px rgba(14, 36, 55, 0.08);
 }
 
 .gallery-video-wrap iframe {
@@ -4049,18 +4065,20 @@ a.contact__info-value:hover { color: var(--color-secondary); }
     margin-top: 2rem;
 }
 
-@media (max-width: 640px) {
-    .gallery-grid { grid-template-columns: 1fr 1fr; }
-    .gallery-grid__item--wide { grid-column: span 2; }
-    .gallery-videos { grid-template-columns: 1fr; }
-}
-@media (max-width: 420px) {
-    /* On very small phones, stack gallery to single column */
-    .gallery-grid { grid-template-columns: 1fr; }
+@media (max-width: 768px) {
+    .gallery-grid {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    .gallery-grid__item,
     .gallery-grid__item--wide,
-    .gallery-grid__item:nth-child(4) { grid-column: span 1; }
-    .gallery-grid__item--wide img,
-    .gallery-grid__item:nth-child(4) img { aspect-ratio: 16/10; }
+    .gallery-grid__item:nth-child(4) {
+        grid-column: span 1;
+        aspect-ratio: 16 / 10;
+    }
+    .gallery-videos {
+        grid-template-columns: 1fr;
+    }
 }
 
 /* ─────────────────────────────────────────────────────────────────────────
