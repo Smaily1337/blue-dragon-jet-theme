@@ -1,0 +1,979 @@
+# Blue Dragon Jet — German (Deutsch) translations
+# Copyright (C) 2025 GAMM-BUD Sp. z o.o.
+msgid ""
+msgstr ""
+"Project-Id-Version: blue-dragon-jet\n"
+"POT-Creation-Date: 2025-01-01 00:00+0000\n"
+"PO-Revision-Date: 2025-01-01 00:00+0000\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: manual\n"
+
+msgid "Kontakt"
+msgstr "Kontakt"
+
+msgid "Skontaktuj się z nami"
+msgstr "Kontaktieren Sie uns"
+
+msgid "Telefon"
+msgstr "Telefon"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Adres"
+msgstr "Adresse"
+
+msgid "Wyślij zapytanie"
+msgstr "Anfrage senden"
+
+msgid "Formularz zapytania"
+msgstr "Anfrageformular"
+
+msgid "Czego dotyczy zapytanie?"
+msgstr "Worum geht es bei Ihrer Anfrage?"
+
+msgid "Kliknij kafelek, aby przejść do wyboru produktów."
+msgstr "Klicken Sie auf eine Kachel, um zur Produktauswahl zu gelangen."
+
+msgid "Maszyny"
+msgstr "Maschinen"
+
+msgid "Urządzenia do wdmuchiwania kabli i mikrokanalizacji"
+msgstr "Kabeleinblasmaschinen und Mikro-Rohr-Anlagen"
+
+msgid "Akcesoria"
+msgstr "Zubehör"
+
+msgid "Głowice, adaptery, uszczelki i części zamienne"
+msgstr "Köpfe, Adapter, Dichtungen und Ersatzteile"
+
+msgid "Wybierz produkty"
+msgstr "Produkte auswählen"
+
+msgid "Możesz zaznaczyć kilka pozycji."
+msgstr "Sie können mehrere Positionen auswählen."
+
+msgid "Wybierz maszyny"
+msgstr "Maschinen auswählen"
+
+msgid "Wybierz akcesoria"
+msgstr "Zubehör auswählen"
+
+msgid "Wybierz przynajmniej jeden produkt."
+msgstr "Bitte wählen Sie mindestens ein Produkt aus."
+
+msgid "Twoje dane kontaktowe"
+msgstr "Ihre Kontaktdaten"
+
+msgid "Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "Wir antworten innerhalb von 24 Arbeitsstunden."
+
+msgid "Imię i nazwisko *"
+msgstr "Vor- und Nachname *"
+
+msgid "Adres e-mail *"
+msgstr "E-Mail-Adresse *"
+
+msgid "Numer telefonu"
+msgstr "Telefonnummer"
+
+msgid "Dodatkowa wiadomość"
+msgstr "Zusätzliche Nachricht"
+
+msgid "Opcjonalnie — szczegóły, termin realizacji, pytania techniczne..."
+msgstr "Optional — Details, Liefertermin, technische Fragen..."
+
+msgid "Wyrażam zgodę na przetwarzanie moich danych osobowych przez GAMM-BUD Sp. z o.o. (Skarbimierzyce 22, 72-002 Dołuje) w celu udzielenia odpowiedzi na zapytanie — zgodnie z RODO. *"
+msgstr "Ich stimme der Verarbeitung meiner personenbezogenen Daten durch GAMM-BUD Sp. z o.o. (Skarbimierzyce 22, 72-002 Dołuje) zur Beantwortung meiner Anfrage gemäß DSGVO zu. *"
+
+msgid "Wypełnij wymagane pola i zaznacz zgodę RODO."
+msgstr "Bitte füllen Sie alle Pflichtfelder aus und akzeptieren Sie die DSGVO-Einwilligung."
+
+msgid "Wiadomość wysłana!"
+msgstr "Nachricht gesendet!"
+
+msgid "Dziękujemy. Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "Vielen Dank. Wir antworten innerhalb von 24 Arbeitsstunden."
+
+msgid "Zamknij"
+msgstr "Schließen"
+
+msgid "Odpowiedź w 24h"
+msgstr "Antwort in 24h"
+
+msgid "3 proste kroki"
+msgstr "3 einfache Schritte"
+
+msgid "Masz pytanie o nasze produkty?"
+msgstr "Haben Sie Fragen zu unseren Produkten?"
+
+msgid "Wybierz kategorię i produkty — dopasujemy ofertę do Twoich potrzeb i odezwiemy się w ciągu jednego dnia roboczego."
+msgstr "Wählen Sie eine Kategorie und Produkte — wir passen unser Angebot an Ihre Bedürfnisse an und melden uns innerhalb eines Werktages."
+
+msgid "Wysłano"
+msgstr "Gesendet"
+
+msgid "Nasze maszyny do wdmuchiwania kabli"
+msgstr "Unsere Kabeleinblasmaschinen"
+
+msgid "Zobacz maszyny"
+msgstr "Maschinen ansehen"
+
+msgid "Zobacz wszystkie maszyny"
+msgstr "Alle Maschinen ansehen"
+
+msgid "Dowiedz się więcej"
+msgstr "Mehr erfahren"
+
+msgid "Zapytaj o ofertę"
+msgstr "Angebot anfragen"
+
+msgid "Skontaktuj się z nami po specyfikację."
+msgstr "Kontaktieren Sie uns für die Spezifikation."
+
+msgid "Szczegóły produktu wkrótce. Skontaktuj się z nami po specyfikację."
+msgstr "Produktdetails folgen in Kürze. Kontaktieren Sie uns für die Spezifikation."
+
+msgid "Najnowsze artykuły"
+msgstr "Neueste Artikel"
+
+msgid "Wszystkie artykuły"
+msgstr "Alle Artikel"
+
+msgid "Nasi partnerzy"
+msgstr "Unsere Partner"
+
+msgid "Zaufali nam dystrybutorzy na całym świecie"
+msgstr "Distributoren weltweit vertrauen uns"
+
+msgid "Zostań dystrybutorem"
+msgstr "Distributor werden"
+
+msgid "Dystrybucja"
+msgstr "Vertrieb"
+
+msgid "Opinie"
+msgstr "Bewertungen"
+
+msgid "Co mówią nasi klienci"
+msgstr "Was unsere Kunden sagen"
+
+msgid "Zaufali nam"
+msgstr "Sie vertrauen uns"
+
+msgid "Lat doświadczenia"
+msgstr "Jahre Erfahrung"
+
+msgid "Sprzedanych maszyn"
+msgstr "Verkaufte Maschinen"
+
+msgid "Krajów obsługiwanych"
+msgstr "Bediente Länder"
+
+msgid "Europejski producent"
+msgstr "Europäischer Hersteller"
+
+msgid "Projektowane i produkowane w Polsce (UE) — precyzyjna inżynieria w konkurencyjnej cenie."
+msgstr "Entworfen und hergestellt in Polen (EU) — präzise Technik zu einem wettbewerbsfähigen Preis."
+
+msgid "Ekspresowa wysyłka"
+msgstr "Expressversand"
+
+msgid "Zamówione maszyny wysyłamy w ciągu 24h. Gwarantujemy szybką dostawę na terenie całej Europy."
+msgstr "Bestellte Maschinen versenden wir innerhalb von 24 Stunden. Wir garantieren schnelle Lieferung in ganz Europa."
+
+msgid "Profesjonalne doradztwo"
+msgstr "Professionelle Beratung"
+
+msgid "Nasi inżynierowie pomogą dobrać właściwy model. Masz pytania? Zadzwoń lub napisz — odpowiadamy szybko."
+msgstr "Unsere Ingenieure helfen Ihnen bei der Auswahl des richtigen Modells. Haben Sie Fragen? Rufen Sie an oder schreiben Sie — wir antworten schnell."
+
+msgid "Polityka jakości"
+msgstr "Qualitätspolitik"
+
+msgid "Działamy zgodnie z normami ISO i standardami CE. Każda maszyna przechodzi rygorystyczną kontrolę jakości przed wysyłką."
+msgstr "Wir arbeiten nach ISO-Normen und CE-Standards. Jede Maschine wird vor dem Versand einer strengen Qualitätskontrolle unterzogen."
+
+msgid "Szkolenia"
+msgstr "Schulungen"
+
+msgid "Do każdej maszyny zapewniamy pełne szkolenie. Poznaj mechanizmy działania i optymalne sposoby użytkowania urządzeń."
+msgstr "Zu jeder Maschine bieten wir eine vollständige Schulung an. Lernen Sie die Funktionsweise und optimale Bedienung der Geräte kennen."
+
+msgid "Wsparcie techniczne"
+msgstr "Technischer Support"
+
+msgid "Naprawa / Serwis"
+msgstr "Reparatur / Service"
+
+msgid "Oferujemy serwis oraz naprawę maszyn. Szybka dostępność części zamiennych dla wszystkich modeli Blue Dragon Jet."
+msgstr "Wir bieten Wartung und Reparatur von Maschinen an. Schnelle Verfügbarkeit von Ersatzteilen für alle Blue Dragon Jet Modelle."
+
+msgid "Potrzebujesz serwisu?"
+msgstr "Benötigen Sie Service?"
+
+msgid "Zgłoś usterkę"
+msgstr "Fehler melden"
+
+msgid "Usterka, przegląd, kalibracja lub zamówienie części — nasz zespół odpowiada w ciągu 24h. Zgłoś usterkę online, zanim straci czas na przestój."
+msgstr "Störung, Inspektion, Kalibrierung oder Teilbestellung — unser Team antwortet innerhalb von 24 Stunden. Melden Sie den Fehler online, bevor Sie Zeit durch Ausfallzeiten verlieren."
+
+msgid "Wdmuchiwanie kabli"
+msgstr "Kabeleinblasen"
+
+msgid "Maszyny w akcji"
+msgstr "Maschinen in Aktion"
+
+msgid "Zobacz nasze urządzenia podczas pracy w terenie."
+msgstr "Sehen Sie unsere Geräte im Feldeinsatz."
+
+msgid "Toggle menu"
+msgstr "Menü umschalten"
+
+msgid "Parametry maszyny"
+msgstr "Maschinenparameter"
+
+msgid "Akcesoria"
+msgstr "Zubehör"
+
+msgid "Brak dokładnego dopasowania — wybierz inne parametry lub zaznacz maszynę ręcznie."
+msgstr "Keine genaue Übereinstimmung — wählen Sie andere Parameter oder markieren Sie eine Maschine manuell."
+
+msgid "Błąd wysyłki. Spróbuj ponownie lub zadzwoń."
+msgstr "Sendefehler. Bitte versuchen Sie es erneut oder rufen Sie uns an."
+
+msgid "Dalej"
+msgstr "Weiter"
+
+msgid "Dane"
+msgstr "Details"
+
+msgid "Dziękujemy za kontakt. Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "Vielen Dank für Ihre Kontaktaufnahme. Wir antworten innerhalb von 24 Werktunden."
+
+msgid "Dziękujemy. Odpiszemy w ciągu 24 godzin roboczych."
+msgstr "Vielen Dank. Wir antworten innerhalb von 24 Werktunden."
+
+msgid "Głowice, adaptery, części zamienne i wyposażenie dodatkowe"
+msgstr "Köpfe, Adapter, Ersatzteile und Zusatzausrüstung"
+
+msgid "Kliknij kafelek, aby przejść dalej."
+msgstr "Klicken Sie auf eine Kachel, um fortzufahren."
+
+msgid "Możesz wybrać kilka pozycji jednocześnie."
+msgstr "Sie können mehrere Positionen gleichzeitig auswählen."
+
+msgid "Polecane"
+msgstr "Empfohlen"
+
+msgid "Rurka"
+msgstr "Rohr"
+
+msgid "Twój wybór:"
+msgstr "Ihre Auswahl:"
+
+msgid "Uzupełnij formularz — odpiszemy w ciągu 24 godzin."
+msgstr "Füllen Sie das Formular aus — wir antworten innerhalb von 24 Stunden."
+
+msgid "Wiadomość wysłana!"
+msgstr "Nachricht gesendet!"
+
+msgid "Wstecz"
+msgstr "Zurück"
+
+msgid "Wybierz kategorię i produkty, które Cię interesują — przygotujemy odpowiedź dopasowaną do Twojego zapytania."
+msgstr "Wählen Sie eine Kategorie und die Produkte, an denen Sie interessiert sind — wir bereiten eine auf Ihre Anfrage zugeschnittene Antwort vor."
+
+msgid "Wypełnij wszystkie wymagane pola i zaznacz zgodę RODO."
+msgstr "Füllen Sie alle Pflichtfelder aus und stimmen Sie der DSGVO zu."
+
+msgid "Wyrażam zgodę na przetwarzanie moich danych osobowych przez GAMM-BUD Sp. z o.o. w celu odpowiedzi na zapytanie (zgodnie z RODO). *"
+msgstr "Ich stimme der Verarbeitung meiner personenbezogenen Daten durch GAMM-BUD Sp. z o.o. zur Beantwortung dieser Anfrage zu (gemäß DSGVO). *"
+
+msgid "Wyślij zapytanie"
+msgstr "Anfrage senden"
+
+msgid "maszyn pasuje do wybranych parametrów"
+msgstr "Maschinen entsprechen den ausgewählten Parametern"
+
+msgid "Śr. wewnętrzna rurki"
+msgstr "Innendurchmesser Rohr"
+
+msgid "Śr. zewnętrzna kabla"
+msgstr "Außendurchmesser Kabel"
+
+msgid "Dystrybucja"
+msgstr "Vertrieb"
+
+msgid "Nasi partnerzy"
+msgstr "Unsere Partner"
+
+msgid "Zaufali nam dystrybutorzy na całym świecie"
+msgstr "Händler auf der ganzen Welt vertrauen uns"
+
+msgid "Zostań dystrybutorem"
+msgstr "Händler werden"
+
+msgid "Opinie"
+msgstr "Bewertungen"
+
+msgid "Opinie klientów"
+msgstr "Kundenbewertungen"
+
+msgid "Co mówią nasi klienci"
+msgstr "Was unsere Kunden sagen"
+
+msgid "Zaufali nam"
+msgstr "Sie vertrauen uns"
+
+msgid "Produkty"
+msgstr "Produkte"
+
+msgid "Nasze maszyny do wdmuchiwania kabli"
+msgstr "Unsere Kabeleinblasmaschinen"
+
+msgid "Dowiedz się więcej"
+msgstr "Mehr erfahren"
+
+msgid "Zobacz wszystkie maszyny"
+msgstr "Alle Maschinen ansehen"
+
+msgid "Wiadomość wysłana!"
+msgstr "Nachricht gesendet!"
+
+msgid "Masz pytanie o nasze produkty?"
+msgstr "Haben Sie eine Frage zu unseren Produkten?"
+
+msgid "Wybierz kategorię i produkty — dopasujemy ofertę do Twoich potrzeb i odezwiemy się w ciągu jednego dnia roboczego."
+msgstr "Wählen Sie Kategorie und Produkte — wir passen das Angebot an Ihre Bedürfnisse an und melden uns innerhalb eines Werktages."
+
+msgid "Czego dotyczy zapytanie?"
+msgstr "Worum geht es bei Ihrer Anfrage?"
+
+msgid "Kliknij kafelek, aby przejść do wyboru produktów."
+msgstr "Klicken Sie auf eine Kachel, um zur Produktauswahl zu gelangen."
+
+msgid "Maszyny"
+msgstr "Maschinen"
+
+msgid "Urządzenia do wdmuchiwania kabli i mikrokanalizacji"
+msgstr "Geräte zum Einblasen von Kabeln und Mikroleitungen"
+
+msgid "Wybierz produkty"
+msgstr "Produkte auswählen"
+
+msgid "Możesz zaznaczyć kilka pozycji."
+msgstr "Sie können mehrere Positionen markieren."
+
+msgid "Formularz zapytania"
+msgstr "Anfageformular"
+
+msgid "Kategoria"
+msgstr "Kategorie"
+
+msgid "Wysłano"
+msgstr "Gesendet"
+
+msgid "Odpowiedź w 24h"
+msgstr "Antwort in 24h"
+
+msgid "3 proste kroki"
+msgstr "3 einfache Schritte"
+
+msgid "Wypełnij wymagane pola i zaznacz zgodę RODO."
+msgstr "Füllen Sie die Pflichtfelder aus und stimmen Sie der DSGVO zu."
+
+msgid "* Ceny netto. Do podanych kwot należy doliczyć podatek VAT 23%. W przypadku większych grup prosimy o indywidualną wycenę."
+msgstr "* Nettopreise. Zu den angegebenen Beträgen ist 23% MwSt. hinzuzurechnen. Für größere Gruppen bitten wir um ein individuelles Angebot."
+
+msgid "24 godzin roboczych"
+msgstr "24 Wertstunden"
+
+msgid "36 mies. gwarancja"
+msgstr "36 Mon. Garantie"
+
+msgid "36 miesięcy (maszyny wdmuchujące)"
+msgstr "36 Monate (Einblasmaschinen)"
+
+msgid "36 miesięcy gwarancji"
+msgstr "36 Monate Garantie"
+
+msgid "36-miesięczna gwarancja"
+msgstr "36-monatige Garantie"
+
+msgid "36-miesięczną gwarancję"
+msgstr "36-monatige Garantie"
+
+msgid "3× dłuższa niż standard branżowy — inwestujesz raz, pracujesz bez stresu latami."
+msgstr "3× länger als der Branchenstandard — einmal investieren, jahrelang stressfrei arbeiten."
+
+msgid "60+ krajów"
+msgstr "60+ Länder"
+
+msgid "9001:2015 od 2001 r."
+msgstr "9001:2015 seit 2001"
+
+msgid "Absolwenci otrzymują imienny certyfikat Blue Dragon Jet Academy. Dokument potwierdzający kompetencje operatora — cenny przy przetargach i audytach."
+msgstr "Die Absolventen erhalten ein personalisiertes Zertifikat der Blue Dragon Jet Academy. Ein Dokument, das die Kompetenz des Bedieners bestätigt — wertvoll bei Ausschreibungen und Audits."
+
+msgid "Akademia"
+msgstr "Akademie"
+
+msgid "Akademia BDJ uczy Twój zespół, jak maksymalnie wykorzystać sprzęt od pierwszego dnia."
+msgstr "Die BDJ-Akademie lehrt Ihr Team, wie Sie die Geräte vom ersten Tag an optimal nutzen."
+
+msgid "Autoryzowani inżynierowie BDJ"
+msgstr "Autorisierte BDJ-Ingenieure"
+
+msgid "Cennik szkoleń"
+msgstr "Schulungspreise"
+
+msgid "Certyfikat ISO 9001:2015"
+msgstr "ISO 9001:2015-Zertifikat"
+
+msgid "Certyfikat nr"
+msgstr "Zertifikat Nr."
+
+msgid "Certyfikat rozpoznawany w branży"
+msgstr "Branchenweit anerkanntes Zertifikat"
+
+msgid "Certyfikat ukończenia"
+msgstr "Abschlusszertifikat"
+
+msgid "Certyfikaty"
+msgstr "Zertifikate"
+
+msgid "Chcesz wiedzieć więcej?"
+msgstr "Möchten Sie mehr erfahren?"
+
+msgid "Co oferujemy"
+msgstr "Was wir anbieten"
+
+msgid "Co wyróżnia nasze maszyny"
+msgstr "Was unsere Maschinen auszeichnet"
+
+msgid "Czas reakcji"
+msgstr "Reaktionszeit"
+
+msgid "Czytaj opinie"
+msgstr "Bewertungen lesen"
+
+msgid "Części zamienne dostępne od ręki. Żadnych tygodni oczekiwania z importu."
+msgstr "Ersatzteile sofort verfügbar. Keine wochenlangen Wartezeiten aus dem Import."
+
+msgid "Dane techniczne"
+msgstr "Technische Daten"
+
+msgid "Dlaczego %s?"
+msgstr "Warum %s?"
+
+msgid "Dlaczego Blue Dragon Jet"
+msgstr "Warum Blue Dragon Jet"
+
+msgid "Dlaczego warto"
+msgstr "Warum es sich lohnt"
+
+msgid "Dokumentacja techniczna dostępna po kontakcie z przedstawicielem handlowym."
+msgstr "Technische Dokumentation nach Kontaktaufnahme mit dem Vertriebsmitarbeiter verfügbar."
+
+msgid "Dokumenty"
+msgstr "Dokumente"
+
+msgid "Dostawa"
+msgstr "Lieferung"
+
+msgid "Dostawa 24h"
+msgstr "24h-Lieferung"
+
+msgid "Dostawa do Europy w 3–5 dni roboczych"
+msgstr "Lieferung nach Europa in 3–5 Werktagen"
+
+msgid "Dostępna — wysyłka w ciągu 24h"
+msgstr "Verfügbar — Versand innerhalb 24h"
+
+msgid "Dostępność"
+msgstr "Verfügbarkeit"
+
+msgid "Dostępny"
+msgstr "Verfügbar"
+
+msgid "Dynamiczny rozwój eksportu — nasze maszyny trafiają do klientów na całym świecie."
+msgstr "Dynamische Exportentwicklung — unsere Maschinen erreichen Kunden weltweit."
+
+msgid "Dystrybutorzy"
+msgstr "Händler"
+
+msgid "Działamy w ponad 60 krajach dzięki sieci zaufanych dystrybutorów. Lokalna obsługa, globalna jakość — dostarczamy sprzęt tam, gdzie potrzebujesz."
+msgstr "Wir sind in über 60 Ländern tätig, dank eines Netzwerks vertrauenswürdiger Händler. Lokaler Service, globale Qualität — wir liefern Geräte dorthin, wo Sie sie brauchen."
+
+msgid "E-mail serwisowy"
+msgstr "Service-E-Mail"
+
+msgid "Europa 3–5 dni roboczych; reszta świata 7–14 dni"
+msgstr "Europa 3–5 Werktage; Rest der Welt 7–14 Tage"
+
+msgid "Europejska produkcja = szybki serwis"
+msgstr "Europäische Produktion = schneller Service"
+
+msgid "Europejski producent maszyn do wdmuchiwania kabli i mikrokabli światłowodowych."
+msgstr "Europäischer Hersteller von Glasfaserkabel-Einblasmaschinen."
+
+msgid "Firma"
+msgstr "Unternehmen"
+
+msgid "Formularz serwisowy"
+msgstr "Serviceformular"
+
+msgid "Formularz zgłoszenia serwisowego"
+msgstr "Service-Meldeformular"
+
+msgid "Francja"
+msgstr "Frankreich"
+
+msgid "GAMM-BUD Sp. z o.o. / Blue Dragon Jet (Polska, UE)"
+msgstr "GAMM-BUD Sp. z o.o. / Blue Dragon Jet (Polen, EU)"
+
+msgid "GAMM-BUD — maszyny, które pracują na całym świecie"
+msgstr "GAMM-BUD — Maschinen, die weltweit arbeiten"
+
+msgid "Godziny pracy serwisu"
+msgstr "Servicezeiten"
+
+msgid "Gotowy na szkolenie?"
+msgstr "Bereit für die Schulung?"
+
+msgid "Gwarancja"
+msgstr "Garantie"
+
+msgid "Gwarancja na"
+msgstr "Garantie auf"
+
+msgid "Idealne do zestawu z"
+msgstr "Ideal als Set mit"
+
+msgid "Idealny zestaw z:"
+msgstr "Ideales Set mit:"
+
+msgid "Interdyscyplinarny zespół"
+msgstr "Interdisziplinäres Team"
+
+msgid "Inżynierowie, konstruktorzy, programiści i operatorzy CNC pracują razem pod jednym dachem. To skraca czas reakcji i pozwala szybko wdrażać niestandardowe rozwiązania."
+msgstr "Ingenieure, Konstrukteure, Programmierer und CNC-Bediener arbeiten gemeinsam unter einem Dach. Das verkürzt die Reaktionszeit und ermöglicht die schnelle Umsetzung individueller Lösungen."
+
+msgid "Jak to działa"
+msgstr "Wie es funktioniert"
+
+msgid "Jakość potwierdzona"
+msgstr "Bestätigte Qualität"
+
+msgid "Jesteśmy polskim producentem maszyn do wdmuchiwania kabli i mikrokanalizacji, działającym pod marką"
+msgstr "Wir sind ein polnischer Hersteller von Kabeleinblasmaschinen und Mikroleitungssystemen, tätig unter der Marke"
+
+msgid "Kabel"
+msgstr "Kabel"
+
+msgid "Kabel:"
+msgstr "Kabel:"
+
+msgid "Kalkulator kosztów"
+msgstr "Kostenrechner"
+
+msgid "Kameralne grupy, indywidualne podejście"
+msgstr "Kleine Gruppen, individueller Ansatz"
+
+msgid "Każda maszyna BDJ objęta jest pełnym wsparciem — od gwarancji, przez części zamienne, aż po regularne przeglądy i kalibrację."
+msgstr "Jede BDJ-Maschine ist vollständig abgedeckt — von der Garantie über Ersatzteile bis hin zu regelmäßigen Inspektionen und Kalibrierungen."
+
+msgid "Każda maszyna powstaje w naszym zakładzie — od projektu CAD, przez obróbkę CNC, po końcowe testy. Nie podwykonawcy, nie kompromisy w jakości."
+msgstr "Jede Maschine entsteht in unserem Werk — vom CAD-Entwurf über die CNC-Bearbeitung bis zu den Abschlusstests. Keine Subunternehmer, keine Kompromisse bei der Qualität."
+
+msgid "Każde szkolenie to połowa sali i połowa warsztatu — uczestnicy ćwiczą wdmuchiwanie kabli na prawdziwych maszynach BDJ w warunkach zbliżonych do tych z placu budowy."
+msgstr "Jede Schulung besteht zur Hälfte aus Theorie und zur Hälfte aus Praxis — die Teilnehmer üben das Kabeleinblasen an echten BDJ-Maschinen unter baustellen-nahen Bedingungen."
+
+msgid "Kliknij poniższy przycisk, aby przejść do systemu zgłoszeń serwisowych."
+msgstr "Klicken Sie auf die Schaltfläche unten, um zum Service-Meldesystem zu gelangen."
+
+msgid "Kompatybilność"
+msgstr "Kompatibilität"
+
+msgid "Kompleksowa obsługa serwisowa"
+msgstr "Umfassender Kundendienst"
+
+msgid "Konsultacje po szkoleniu (30 dni)"
+msgstr "Beratung nach der Schulung (30 Tage)"
+
+msgid "Konsultacje po szkoleniu (60 dni)"
+msgstr "Beratung nach der Schulung (60 Tage)"
+
+msgid "Korzyści dla Ciebie"
+msgstr "Ihre Vorteile"
+
+msgid "Krajów obsługi"
+msgstr "Bediente Länder"
+
+msgid "Maksymalnie 10 uczestników na jedną edycję. Każdy ma czas na pytania, może wielokrotnie powtórzyć ćwiczenie i wyjść z kursu pewny swoich umiejętności."
+msgstr "Maximal 10 Teilnehmer pro Kurs. Jeder hat Zeit für Fragen, kann die Übung mehrfach wiederholen und den Kurs mit Sicherheit in seinen Fähigkeiten verlassen."
+
+msgid "Maszyna do wdmuchiwania kabli światłowodowych"
+msgstr "Glasfaserkabel-Einblasmaschine"
+
+msgid "Materiały szkoleniowe"
+msgstr "Schulungsmaterialien"
+
+msgid "Mies. gwarancja"
+msgstr "Mon. Garantie"
+
+msgid "Mikrorurka"
+msgstr "Mikrorohr"
+
+msgid "Mikrorurka:"
+msgstr "Mikrorohr:"
+
+msgid "Model %s osiąga najlepsze wyniki w połączeniu z:"
+msgstr "Modell %s erzielt die besten Ergebnisse in Kombination mit:"
+
+msgid "Na stanie — wysyłka w 24h"
+msgstr "Auf Lager — Versand in 24h"
+
+msgid "Na żądanie"
+msgstr "Auf Anfrage"
+
+msgid "Najpopularniejszy"
+msgstr "Beliebteste"
+
+msgid "Naprawa lub wysyłka"
+msgstr "Reparatur oder Einsendung"
+
+msgid "Naprawiamy wszystkie modele BDJ — w gwarancji bezpłatnie, poza nią: transparentny kosztorys zanim cokolwiek rozłożymy."
+msgstr "Wir reparieren alle BDJ-Modelle — im Garantiefall kostenlos, außerhalb: transparenter Kostenvoranschlag, bevor wir anfangen."
+
+msgid "Nasi inżynierowie są dostępni zarówno zdalnie, jak i w terenie. Oferujemy szkolenia operatorów, serwis gwarancyjny i pogwarancyjny oraz szybką realizację części zamiennych."
+msgstr "Unsere Ingenieure sind sowohl per Fernwartung als auch vor Ort verfügbar. Wir bieten Bedienerschulungen, Garantie- und Nachgarantieservice sowie schnelle Lieferung von Ersatzteilen."
+
+msgid "Nasi trenerzy to inżynierowie z wieloletnią praktyką terenową — uczą tego, co sami stosują na co dzień."
+msgstr "Unsere Trainer sind Ingenieure mit langjähriger Felderfahrung — sie lehren, was sie selbst täglich anwenden."
+
+msgid "Nasz technik analizuje zgłoszenie i kontaktuje się z wyceną lub zdalną diagnostyką."
+msgstr "Unser Techniker analysiert die Meldung und meldet sich mit einem Kostenvoranschlag oder einer Ferndiagnose."
+
+msgid "Nasza historia"
+msgstr "Unsere Geschichte"
+
+msgid "Nasze maszyny są projektowane i wytwarzane w Polsce (UE), zgodnie z europejskimi normami bezpieczeństwa. Precyzyjna inżynieria w konkurencyjnej cenie."
+msgstr "Unsere Maschinen werden in Polen (EU) nach europäischen Sicherheitsnormen entwickelt und hergestellt. Präzisionstechnik zu wettbewerbsfähigen Preisen."
+
+msgid "Nasze urządzenia docierają do instalatorów i dystrybutorów w ponad"
+msgstr "Unsere Geräte erreichen Installateure und Händler in über"
+
+msgid "Nawigacja"
+msgstr "Navigation"
+
+msgid "Niemcy"
+msgstr "Deutschland"
+
+msgid "O nas"
+msgstr "Über uns"
+
+msgid "Obiad"
+msgstr "Mittagessen"
+
+msgid "Obsługuje kable %s — instalujesz szybciej, bez uszkodzeń światłowodu."
+msgstr "Unterstützt Kabel %s — Sie installieren schneller, ohne Beschädigung der Glasfaser."
+
+msgid "Od ponad dwóch dekad projektujemy i produkujemy maszyny do wdmuchiwania kabli, które pracują w ponad 60 krajach. Łączymy doświadczenie inżynierów z nowoczesną technologią CNC — wszystko pod jednym dachem, w Polsce."
+msgstr "Seit über zwei Jahrzehnten entwickeln und produzieren wir Kabeleinblasmaschinen, die in über 60 Ländern im Einsatz sind. Wir verbinden Ingenieurserfahrung mit moderner CNC-Technologie — alles unter einem Dach, in Polen."
+
+msgid "Opis"
+msgstr "Beschreibung"
+
+msgid "Opisz usterkę i podaj model maszyny. Zajmuje to mniej niż 2 minuty."
+msgstr "Beschreiben Sie den Defekt und geben Sie das Maschinenmodell an. Das dauert weniger als 2 Minuten."
+
+msgid "Oryg. części"
+msgstr "Orig. Teile"
+
+msgid "Otrzymujesz protokół serwisowy i maszynę gotową do pracy — z nową gwarancją na naprawione części."
+msgstr "Sie erhalten ein Serviceprotokoll und eine einsatzbereite Maschine — mit neuer Garantie auf reparierte Teile."
+
+msgid "Pakiet L"
+msgstr "Paket L"
+
+msgid "Pakiet M"
+msgstr "Paket M"
+
+msgid "Pakiet S"
+msgstr "Paket S"
+
+msgid "Pakiet gadżetów firmowych"
+msgstr "Firmen-Gadget-Paket"
+
+msgid "Pasuje do zestawu"
+msgstr "Passend zum Set"
+
+msgid "Pobierz"
+msgstr "Herunterladen"
+
+msgid "Pobierz dokumentację techniczną dla tej maszyny."
+msgstr "Laden Sie die technische Dokumentation für diese Maschine herunter."
+
+msgid "Polska"
+msgstr "Polen"
+
+msgid "Polska inżynieria"
+msgstr "Polnische Ingenieurskunst"
+
+msgid "Pon–Pt: 8:00–16:00"
+msgstr "Mo–Fr: 8:00–16:00"
+
+msgid "Potrzebujesz dodatkowej dokumentacji? Skontaktuj się z nami."
+msgstr "Benötigen Sie zusätzliche Dokumentation? Kontaktieren Sie uns."
+
+msgid "Powrót do katalogu maszyn"
+msgstr "Zurück zum Maschinenkatalog"
+
+msgid "Praktyczne ćwiczenia na maszynie"
+msgstr "Praktische Maschinenübungen"
+
+msgid "Precyzja na każdym odcinku"
+msgstr "Präzision auf jedem Abschnitt"
+
+msgid "Proces serwisowy w 4 krokach"
+msgstr "Serviceprozess in 4 Schritten"
+
+msgid "Producent"
+msgstr "Hersteller"
+
+msgid "Produkcja własna, pełna kontrola"
+msgstr "Eigenproduktion, volle Kontrolle"
+
+msgid "Produkt z Unii Europejskiej"
+msgstr "Produkt aus der Europäischen Union"
+
+msgid "Profesjonalna maszyna do wdmuchiwania kabli światłowodowych – produkcja GAMM-BUD / Blue Dragon Jet (Polska, UE)."
+msgstr "Professionelle Glasfaserkabel-Einblasmaschine – hergestellt von GAMM-BUD / Blue Dragon Jet (Polen, EU)."
+
+msgid "Profesjonalne szkolenia z zakresu wdmuchiwania kabli, obsługi maszyn i optymalizacji instalacji światłowodowych."
+msgstr "Professionelle Schulungen in den Bereichen Kabeleinblasen, Maschinenbedienung und Optimierung von Glasfaserinstallationen."
+
+msgid "Projektujemy, konstruujemy i wytwarzamy wszystko we własnym zakładzie — od prototypu po gotową maszynę, gotową do pracy w terenie."
+msgstr "Wir entwerfen, konstruieren und fertigen alles in unserem eigenen Werk — vom Prototyp bis zur fertigen, feldeinsatzbereiten Maschine."
+
+msgid "Protokół i zwrot"
+msgstr "Protokoll und Rückgabe"
+
+msgid "Przeglądy okresowe i kalibracja"
+msgstr "Periodische Inspektionen und Kalibrierung"
+
+msgid "Regularne przeglądy i certyfikowana kalibracja zapewniają precyzję i niezawodność — Twoja maszyna wraca z protokołem serwisowym i nową gwarancją na naprawione części."
+msgstr "Regelmäßige Inspektionen und zertifizierte Kalibrierung gewährleisten Präzision und Zuverlässigkeit — Ihre Maschine kommt mit einem Serviceprotokoll und neuer Garantie auf reparierte Teile zurück."
+
+msgid "Rozwiązujemy problem zdalnie lub wysyłamy część / organizujemy odbiór maszyny."
+msgstr "Wir lösen das Problem per Fernwartung oder senden ein Teil / organisieren die Abholung der Maschine."
+
+msgid "SKONTAKTUJ SIĘ"
+msgstr "KONTAKTIEREN SIE UNS"
+
+msgid "Serwis"
+msgstr "Service"
+
+msgid "Serwis gwarancyjny i pogwarancyjny"
+msgstr "Garantie- und Nachgarantieservice"
+
+msgid "Serwis i naprawy"
+msgstr "Service und Reparaturen"
+
+msgid "Skontaktuj się"
+msgstr "Kontaktieren Sie uns"
+
+msgid "Skontaktuj się z nami — chętnie opowiemy o naszych rozwiązaniach, pokażemy maszyny w akcji lub umówimy prezentację na żywo."
+msgstr "Kontaktieren Sie uns — wir erzählen gerne von unseren Lösungen, zeigen Maschinen in Aktion oder vereinbaren eine Live-Präsentation."
+
+msgid "Skontaktuj się z nami, a dobierzemy odpowiedni kurs dla Ciebie i Twojego zespołu."
+msgstr "Kontaktieren Sie uns, und wir wählen den richtigen Kurs für Sie und Ihr Team aus."
+
+msgid "Sprawdź też te maszyny"
+msgstr "Sehen Sie sich auch diese Maschinen an"
+
+msgid "Sprzęt uzupełniający dopasowany do tej maszyny. Zapytaj naszych specjalistów o kompletny zestaw."
+msgstr "Ergänzendes Zubehör für diese Maschine. Fragen Sie unsere Spezialisten nach einem kompletten Set."
+
+msgid "Standardowe 12 miesięcy gwarancji na akcesoria i aż 36 miesięcy na maszyny wdmuchujące. Wiemy, że nasz sprzęt wytrzyma — i gwarantujemy to na piśmie."
+msgstr "Standard 12 Monate Garantie auf Zubehör und ganze 36 Monate auf Einblasmaschinen. Wir wissen, dass unsere Geräte halten — und garantieren das schriftlich."
+
+msgid "Strona główna"
+msgstr "Startseite"
+
+msgid "System zarządzania jakością wdrożyliśmy, kiedy większość branży dopiero o nim słyszała. Dziś certyfikat ISO jest dla nas standardem, a nie wyróżnikiem — bo jakość zaczyna się przy projektowaniu, nie przy kontroli końcowej."
+msgstr "Das Qualitätsmanagementsystem haben wir eingeführt, als die Branche noch kaum davon gehört hatte. Heute ist das ISO-Zertifikat für uns ein Standard, kein Alleinstellungsmerkmal — denn Qualität beginnt beim Design, nicht bei der Endkontrolle."
+
+msgid "Szkolenia prowadzą wyłącznie inżynierowie z certyfikacją Blue Dragon Jet — ci sami, którzy projektują maszyny i wspierają klientów na co dzień."
+msgstr "Schulungen werden ausschließlich von Blue Dragon Jet-zertifizierten Ingenieuren durchgeführt — denselben, die die Maschinen entwerfen und Kunden täglich unterstützen."
+
+msgid "Szkolenia stworzone przez praktyków"
+msgstr "Von Praktikern entwickelte Schulungen"
+
+msgid "Szkolenie dla 1–2 uczestników"
+msgstr "Schulung für 1–2 Teilnehmer"
+
+msgid "Szkolenie dla 3–5 uczestników"
+msgstr "Schulung für 3–5 Teilnehmer"
+
+msgid "Szkolenie dla 6–10 uczestników"
+msgstr "Schulung für 6–10 Teilnehmer"
+
+msgid "Szkolenie u Ciebie w firmie"
+msgstr "Schulung bei Ihnen im Unternehmen"
+
+msgid "Szkolenie w cenie"
+msgstr "Schulung im Preis inbegriffen"
+
+msgid "Telefon serwisowy"
+msgstr "Service-Telefon"
+
+msgid "Teoria połączona z praktyką"
+msgstr "Theorie verbunden mit Praxis"
+
+msgid "Uruchomienie produkcji własnych wdmuchiwarek do kabli światłowodowych pod marką Blue Dragon Jet."
+msgstr "Start der Eigenproduktion von Glasfaserkabel-Einblasmaschinen unter der Marke Blue Dragon Jet."
+
+msgid "Usterka? Potrzebujesz przeglądu lub kalibracji? Nasz zespół serwisowy działa szybko — wypełnij formularz, odezwiemy się w ciągu 24h i skoordynujemy naprawę od A do Z."
+msgstr "Defekt? Brauchen Sie eine Inspektion oder Kalibrierung? Unser Serviceteam handelt schnell — füllen Sie das Formular aus, wir melden uns innerhalb von 24h und koordinieren die Reparatur von A bis Z."
+
+msgid "Wdrożenie sprzętu do bezwykopowych napraw sieci kanalizacyjnych pod marką Green Dragon Products."
+msgstr "Einführung von Geräten für die grabenlose Reparatur von Kanalisationsnetzen unter der Marke Green Dragon Products."
+
+msgid "Wiedza i szkolenia"
+msgstr "Wissen und Schulungen"
+
+msgid "Wiele usterek rozwiązujemy przez telefon lub videokonsultację — nasz technik przeprowadza Cię krok po kroku, bez kosztów transportu."
+msgstr "Viele Defekte lösen wir per Telefon oder Videoberatung — unser Techniker führt Sie Schritt für Schritt, ohne Transportkosten."
+
+msgid "Wierzymy, że dobra inżynieria to nie tylko precyzja wykonania, ale też rzetelna obsługa po sprzedaży. Dlatego oferujemy"
+msgstr "Wir glauben, dass gute Ingenieurskunst nicht nur Ausführungspräzision bedeutet, sondern auch zuverlässigen After-Sales-Service. Deshalb bieten wir"
+
+msgid "Wszelkie prawa zastrzeżone."
+msgstr "Alle Rechte vorbehalten."
+
+msgid "Wszystkie maszyny"
+msgstr "Alle Maschinen"
+
+msgid "Wybierz pakiet dopasowany do wielkości Twojego zespołu. Cena zawiera materiały szkoleniowe i certyfikat ukończenia."
+msgstr "Wählen Sie ein Paket, das zur Größe Ihres Teams passt. Der Preis enthält Schulungsmaterialien und ein Abschlusszertifikat."
+
+msgid "Wycena w 24h"
+msgstr "Angebot in 24h"
+
+msgid "Wypełnij formularz"
+msgstr "Formular ausfüllen"
+
+msgid "Wypełnij formularz jak najdokładniej — im więcej szczegółów, tym szybciej nasz technik zdiagnozuje problem i zaproponuje rozwiązanie. Odpowiadamy w ciągu"
+msgstr "Füllen Sie das Formular so genau wie möglich aus — je mehr Details, desto schneller kann unser Techniker das Problem diagnostizieren. Wir antworten innerhalb von"
+
+msgid "Zamów dokumentację"
+msgstr "Dokumentation bestellen"
+
+msgid "Zapytaj o dokumentację"
+msgstr "Dokumentation anfragen"
+
+msgid "Zapytaj o termin"
+msgstr "Termin anfragen"
+
+msgid "Zapytaj o zestaw"
+msgstr "Set anfragen"
+
+msgid "Zasięg globalny"
+msgstr "Globale Reichweite"
+
+msgid "Założenie spółki GAMM-BUD — start jako dostawca sprzętu dla branży wodno-kanalizacyjnej."
+msgstr "Gründung der GAMM-BUD GmbH — Start als Lieferant von Ausrüstung für die Wasser- und Abwasserbranche."
+
+msgid "Zdalna diagnostyka bez wysyłki maszyny"
+msgstr "Ferndiagnose ohne Maschineneinsendung"
+
+msgid "Zgłoś usterkę online"
+msgstr "Defekt online melden"
+
+msgid "Znajdź dystrybutora"
+msgstr "Händler finden"
+
+msgid "Zobacz kursy"
+msgstr "Kurse ansehen"
+
+msgid "Zobacz produkt"
+msgstr "Produkt ansehen"
+
+msgid "Zobacz szczegóły"
+msgstr "Details ansehen"
+
+msgid "Zweryfikowane zakupy od instalatorów i dystrybutorów z całego świata"
+msgstr "Verifizierte Käufe von Installateuren und Händlern aus aller Welt"
+
+msgid "Zweryfikowany"
+msgstr "Verifiziert"
+
+msgid "do 10 osób"
+msgstr "bis 10 Personen"
+
+msgid "do 2 osób"
+msgstr "bis 2 Personen"
+
+msgid "do 5 osób"
+msgstr "bis 5 Personen"
+
+msgid "gwarancja na maszyny"
+msgstr "Garantie auf Maschinen"
+
+msgid "krajach"
+msgstr "Ländern"
+
+msgid "krajów eksportu"
+msgstr "Exportländer"
+
+msgid "lat doświadczenia"
+msgstr "Jahre Erfahrung"
+
+msgid "maszyn Blue Dragon Jet"
+msgstr "Blue Dragon Jet Maschinen"
+
+msgid "maszyn do wdmuchiwania kabli."
+msgstr "Kabeleinblasmaschinen."
+
+msgid "maszyna do wdmuchiwania kabli Blue Dragon Jet"
+msgstr "Blue Dragon Jet Kabeleinblasmaschine"
+
+msgid "maszyny wdmuchujące"
+msgstr "Einblasmaschinen"
+
+msgid "mies."
+msgstr "Mon."
+
+msgid "na maszyny wdmuchujące i pełne wsparcie techniczne niezależnie od miejsca, w którym pracuje Twój sprzęt."
+msgstr "auf Einblasmaschinen und vollständigen technischen Support, unabhängig davon, wo Ihre Geräte eingesetzt werden."
+
+msgid "na rynkach całego świata"
+msgstr "auf Märkten weltweit"
+
+msgid "opinie"
+msgstr "Bewertungen"
+
+msgid "w Polsce (UE)"
+msgstr "in Polen (EU)"
+
+msgid "Śniadanie"
+msgstr "Frühstück"
+
+msgid "Średnica kabla / mikrorurki"
+msgstr "Kabeldurchmesser / Mikrorohrdurchmesser"
+
+msgid "Średnica rury / mikrokanalizacji"
+msgstr "Rohrdurchmesser / Mikroleitungsdurchmesser"
+
+msgid "— od 2001 roku"
+msgstr "— seit 2001"
+
+msgid "— od Europy przez Bliski Wschód po Azję i obie Ameryki. Za każdą maszyną stoi interdyscyplinarny zespół: inżynierowie konstrukcyjni, programiści, operatorzy CNC i specjaliści ds. jakości."
+msgstr "— von Europa über den Nahen Osten bis nach Asien und in beide Amerikas. Hinter jeder Maschine steht ein interdisziplinäres Team: Konstruktionsingenieure, Programmierer, CNC-Bediener und Qualitätsspezialisten."
