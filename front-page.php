@@ -177,6 +177,11 @@ function _fp_rows( string $key ): ?array {
     <div class="hero__bg" style="background-image:url('<?php echo esc_url( _fp( 'fp_hero_bg', content_url( 'uploads/2026/04/tlo.png' ) ) ); ?>');" role="img" aria-label="Maszyny Blue Dragon Jet"></div>
     <div class="hero__overlay" aria-hidden="true"></div>
     <div class="hero__content">
+        <div class="hero__badge" data-aos="fade-down">
+            <span class="hero__badge-pulse"></span>
+            <span><?php echo esc_html( $_lang === 'de' ? '✦ EUROPÄISCHER HERSTELLER BDJ' : ( $_lang === 'en' ? '✦ EUROPEAN OEM MANUFACTURER BDJ' : '✦ EUROPEJSKI PRODUCENT MASZYN BDJ' ) ); ?></span>
+        </div>
+
         <h1 class="hero__title">
             <?php echo esc_html( _fp( 'fp_hero_title', __( 'Europejski producent', 'blue-dragon-jet' ) ) ); ?><br>
             <span><?php echo esc_html( _fp( 'fp_hero_title2', __( 'maszyn do wdmuchiwania kabli.', 'blue-dragon-jet' ) ) ); ?></span>
@@ -191,7 +196,23 @@ function _fp_rows( string $key ): ?array {
             echo esc_html( _fp( 'fp_hero_subtitle', $_hero_sub_default[ $_lang ] ?? $_hero_sub_default['pl'] ) );
             ?>
         </p>
-        <div class="hero__actions">
+
+        <div class="hero__features" data-aos="fade-up" data-aos-delay="100">
+            <div class="hero__feat-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14" aria-hidden="true"><polyline points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+                <span><?php echo esc_html( $_lang === 'de' ? '100% EU-Ingenieurwesen' : ( $_lang === 'en' ? '100% EU Engineering' : '100% Polska Produkcja' ) ); ?></span>
+            </div>
+            <div class="hero__feat-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+                <span><?php echo esc_html( $_lang === 'de' ? '36 Monate Garantie' : ( $_lang === 'en' ? '36 Months Warranty' : '36 Miesięcy Gwarancji' ) ); ?></span>
+            </div>
+            <div class="hero__feat-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="14" height="14" aria-hidden="true"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+                <span><?php echo esc_html( $_lang === 'de' ? 'Export in 50+ Länder' : ( $_lang === 'en' ? 'Export to 50+ Countries' : 'Eksport do 50+ Krajów' ) ); ?></span>
+            </div>
+        </div>
+
+        <div class="hero__actions" data-aos="fade-up" data-aos-delay="200">
             <a href="<?php echo esc_url( _fp( 'fp_hero_cta_url', '#maszyny' ) ); ?>" class="hero__cta hero__cta--primary">
                 <?php echo esc_html( _fp( 'fp_hero_cta_text', __( 'Zobacz maszyny', 'blue-dragon-jet' ) ) ); ?>
             </a>
