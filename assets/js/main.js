@@ -23,7 +23,20 @@
         hamburger.addEventListener('click', function () {
             const open = hamburger.classList.toggle('is-active');
             primaryNav.classList.toggle('is-open', open);
+            document.body.classList.toggle('menu-open', open);
             hamburger.setAttribute('aria-expanded', String(open));
+        });
+
+        // Close menu when clicking navigation links or CTA
+        primaryNav.querySelectorAll('a').forEach(function (link) {
+            link.addEventListener('click', function () {
+                if (hamburger.classList.contains('is-active')) {
+                    hamburger.classList.remove('is-active');
+                    primaryNav.classList.remove('is-open');
+                    document.body.classList.remove('menu-open');
+                    hamburger.setAttribute('aria-expanded', 'false');
+                }
+            });
         });
     }
 

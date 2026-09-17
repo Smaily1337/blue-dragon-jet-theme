@@ -191,9 +191,14 @@ function _fp_rows( string $key ): ?array {
             echo esc_html( _fp( 'fp_hero_subtitle', $_hero_sub_default[ $_lang ] ?? $_hero_sub_default['pl'] ) );
             ?>
         </p>
-        <a href="<?php echo esc_url( _fp( 'fp_hero_cta_url', '#maszyny' ) ); ?>" class="hero__cta">
-            <?php echo esc_html( _fp( 'fp_hero_cta_text', __( 'Zobacz maszyny', 'blue-dragon-jet' ) ) ); ?>
-        </a>
+        <div class="hero__actions">
+            <a href="<?php echo esc_url( _fp( 'fp_hero_cta_url', '#maszyny' ) ); ?>" class="hero__cta hero__cta--primary">
+                <?php echo esc_html( _fp( 'fp_hero_cta_text', __( 'Zobacz maszyny', 'blue-dragon-jet' ) ) ); ?>
+            </a>
+            <a href="<?php echo esc_url( _fp( 'fp_hero_cta2_url', '#dystrybutorzy' ) ); ?>" class="hero__cta hero__cta--white">
+                <?php echo esc_html( _fp( 'fp_hero_cta2_text', $_fpt['distrib_cta'] ) ); ?>
+            </a>
+        </div>
     </div>
 </section>
 

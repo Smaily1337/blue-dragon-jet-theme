@@ -165,6 +165,12 @@
                 <?php
             }
             ?>
+            <div class="primary-nav__mobile-cta-wrap">
+                <a href="<?php echo esc_url( home_url( '/#kontakt' ) ); ?>" class="primary-nav__mobile-cta">
+                    <?php echo esc_html( $_ht['cta'] ); ?>
+                </a>
+            </div>
+
             <?php /* Lang switcher widoczny tylko w menu mobilnym */ ?>
             <div class="lang-switcher lang-switcher--mobile" aria-label="Language switcher">
                 <?php foreach ( $langs as $code => $l ) :
